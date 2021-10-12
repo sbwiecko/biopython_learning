@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.10.0+</BlastOutput_version>
+  <BlastOutput_reference>Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb Miller (2000), &quot;A greedy algorithm for aligning DNA sequences&quot;, J Comput Biol 2000; 7(1-2):203-14.</BlastOutput_reference>
+  <BlastOutput_db>HBBdb</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Unknown hemoglobin, beta (HBB), mRNA</BlastOutput_query-def>
+  <BlastOutput_query-len>444</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.001</Parameters_expect>
+      <Parameters_sc-match>1</Parameters_sc-match>
+      <Parameters_sc-mismatch>-2</Parameters_sc-mismatch>
+      <Parameters_gap-open>0</Parameters_gap-open>
+      <Parameters_gap-extend>0</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>Unknown hemoglobin, beta (HBB), mRNA</Iteration_query-def>
+  <Iteration_query-len>444</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|16</Hit_id>
+  <Hit_def>NM_001164018.1 Equus caballus hemoglobin, beta (HBB), mRNA</Hit_def>
+  <Hit_accession>16</Hit_accession>
+  <Hit_len>444</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>821.033</Hsp_bit-score>
+      <Hsp_score>444</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>444</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>444</Hsp_identity>
+      <Hsp_positive>444</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>444</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|19</Hit_id>
+  <Hit_def>NM_001304883.1 Ailuropoda melanoleuca hemoglobin subunit beta-like (HBB), mRNA</Hit_def>
+  <Hit_accession>19</Hit_accession>
+  <Hit_len>645</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.495</Hsp_bit-score>
+      <Hsp_score>291</Hsp_score>
+      <Hsp_evalue>5.08184e-156</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>394</Hsp_identity>
+      <Hsp_positive>394</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>445</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGT-TGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGACTGGTGAGGAGAAGGCTGCCGTCACCGGCCTGTGGAGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCACTCCTGATGCTGTTATGAACAACCCCAAGGTCAAGGCCCATGGCAAGAAGGTGCTGAACTCCTTTAGTGAAGGCCTGAAGAATCTGGACAACCTCAAGGGTACCTTTGCTAAGCTGAGCGAGCTGCACTGTGACAAGCTGCACGTGGATCCCGAGAACTTCAAGCTCCTGAGCAACGTGCTGGTGTG-TGTGCTGGCTCACCACTTTGGCAAGGAGTTCACCCCTCAGGTGCAGGCTGCCTATCAGAAGGTGGTGGCTGGTGTGGCCAATGCCCTGGCCCACAAGTACCACTGA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| |||||| |||||||| || |||   | |||||||  ||||||||| | ||| |||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||| |||||| |||  |||||||||||| |||||||| |||||||| |||||  |||||||| |||| ||| || |  |||| |||||||||||||| |||||||||  |||||| |||||||||||||||||||||||||||||||| |||||||||| ||||||| ||||||||||||| || ||||||||||| ||||||||||||||| ||||||||  || |||||||| ||||||| |||||||||||||||||||||||||| ||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|23</Hit_id>
+  <Hit_def>NM_001304885.1 Ailuropoda melanoleuca hemoglobin subunit beta (HBB), mRNA</Hit_def>
+  <Hit_accession>23</Hit_accession>
+  <Hit_len>644</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>521.875</Hsp_bit-score>
+      <Hsp_score>282</Hsp_score>
+      <Hsp_evalue>5.11792e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>391</Hsp_identity>
+      <Hsp_positive>391</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>445</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGT-TGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGACTGGTGAGGAGAAGGCTGCCGTCACCGGCCTGTGGAGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACTCAGAGGTTCTTTGACTCCTTTGGGGACCTGTCCACTCCTGATGCTGTTATGAACAACCCCAAGGTCAAGGCCCATGGCAAGAAGGTGCTGAACTCCTTTAGTGAAGGCCTGAAGAATCTGGACAACCTCAAGGGCACCTTTGTTAAGCTGAGCGAGCTGCACTGTGACAAGCTGCACGTGGATCCCGAGAACTTCAAGCTCCTGGGCAACGTGCTGGTGTG-TGTGCTGGCTCACCACTTCGGCAAAGAGTTCACCCCTCAGGTGCAGGCTGCCTATCAGAAGGTGGTGGCTGGTGTGGCCAACGCCCTGGCCCACAAGTACCACTGA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| |||||| |||||||| || |||   | |||||||  ||||||||| | ||| |||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||| ||||| |||||| |||  |||||||||||| |||||||| |||||||| |||||  |||||||| |||| ||| || |  |||| |||||||||||||||||||||| |  |||||| |||||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||| || ||||||||||| |||||| ||||| || ||||||||  || |||||||| ||||||| ||||||||||||||||||||||| || ||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|2</Hit_id>
+  <Hit_def>NM_000518.5 Homo sapiens hemoglobin subunit beta (HBB), mRNA</Hit_def>
+  <Hit_accession>2</Hit_accession>
+  <Hit_len>628</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>496.022</Hsp_bit-score>
+      <Hsp_score>268</Hsp_score>
+      <Hsp_evalue>3.10206e-143</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>492</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>388</Hsp_identity>
+      <Hsp_positive>388</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>446</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGT-CTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACT-CCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGT-TGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAG-AGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGACTCCTGAGGAGAAGTCTGCCGTTACT-GCCCTGTGGGGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTGGTCTACCCTTGGACCCAGAGGTTCTTTGAGTCCTTTGGGGATCTGTCCACTCCTGATGCTGTTATGGGCAACCCTAAGGTGAAGGCTCATGGCAAGAAAGTGCT-CGGTGCCTTTAGTGATGGCCTGGCTCACCTGGACAACCTCAAGGGCACCTTTGCCACACTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTCTG-TGTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCACCAG-TGCAGGCTGCCTATCAGAAAGTGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTATCACT</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| |  ||| |||||| | || ||   | |||||||||| ||||||||| | ||| |||||||||||||| |||||||||||||||||||| |||||||| ||||| |||||||||||||| ||||||||||||||||||| ||||| |||||| ||||||||||| ||||||||||| || |||||||||||||| |  | ||||| |||| ||| ||  ||| || |||||||||||||||||||||||  | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||| |  ||||||||||| || |||||||||  || |||||||| ||||||| || ||||||||||||||||| ||||| ||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|14</Hit_id>
+  <Hit_def>NM_001082260.3 Oryctolagus cuniculus hemoglobin, beta (HBB2), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>14</Hit_accession>
+  <Hit_len>822</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.096</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>2.41507e-139</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>266</Hsp_hit-from>
+      <Hsp_hit-to>709</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>447</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACT-CCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCAC-CC-CAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGTCCAGTGAGGAGAAGTCTGCGGTCACTGCCCTGTGGGGCAAGGTGAATGTGGAAGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACCCAGAGGTTCTTCGAGTCCTTTGGGGACCTGTCCTCTGCACATGCTGTTATGAGCAATCCTAAGGTGAAGGCTCATGGCAAGAAGGTGCT-GGCTGCCTTCAGTGAGGGTCTGAATCACCTGGACAACCTCAAAGGCACCTTTGCTAAGCTGAGTGAACTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGTCTCATCATTTTGGCAAAGAATTCACTCCTCAG-G-TGCAGGCTGCCTATCAGAAGGTGGTGGCTGGTGTGGCCAATGCCCTGGCTCACAAATACCACTGA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||    |||| |||||| | || |||   |||||||||| ||||||||||| |||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| ||||||  | |   |||||| ||| |||| || ||||||||||| || |||||||| |||||   || ||||  |||||||  || |||| || ||||||||||| ||||||||||||  ||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||  || |||||||| || ||||| || ||| | |||||||| ||||||| |||||||||||||||||||||||||| ||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|13</Hit_id>
+  <Hit_def>NM_001314043.1 Oryctolagus cuniculus hemoglobin, beta (HBB2), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>13</Hit_accession>
+  <Hit_len>822</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.096</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>2.41507e-139</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>266</Hsp_hit-from>
+      <Hsp_hit-to>709</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>386</Hsp_identity>
+      <Hsp_positive>386</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>447</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACT-CCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCAC-CC-CAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGTCCAGTGAGGAGAAGTCTGCGGTCACTGCCCTGTGGGGCAAGGTGAATGTGGAAGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACCCAGAGGTTCTTCGAGTCCTTTGGGGACCTGTCCTCTGCACATGCTGTTATGAGCAATCCTAAGGTGAAGGCTCATGGCAAGAAGGTGCT-GGCTGCCTTCAGTGAGGGTCTGAATCACCTGGACAACCTCAAAGGCACCTTTGCTAAGCTGAGTGAACTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGTCTCATCATTTTGGCAAAGAATTCACTCCTCAG-G-TGCAGGCTGCCTATCAGAAGGTGGTGGCTGGTGTGGCCAATGCCCTGGCTCACAAATACCACTGA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||    |||| |||||| | || |||   |||||||||| ||||||||||| |||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||| || ||||||||||| ||||||  | |   |||||| ||| |||| || ||||||||||| || |||||||| |||||   || ||||  |||||||  || |||| || ||||||||||| ||||||||||||  ||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||  || |||||||| || ||||| || ||| | |||||||| ||||||| |||||||||||||||||||||||||| ||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|11</Hit_id>
+  <Hit_def>NM_173917.2 Bos taurus hemoglobin, beta (HBB), mRNA</Hit_def>
+  <Hit_accession>11</Hit_accession>
+  <Hit_len>633</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.249</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>8.68612e-139</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>437</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>372</Hsp_identity>
+      <Hsp_positive>372</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>428</Hsp_align-len>
+      <Hsp_qseq>CTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATA</Hsp_qseq>
+      <Hsp_hseq>CTGACTGCTGAGGAGAAGGCTGCCGTCACCGCCTTTTGGGGCAAGGTGAAAGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACTCAGAGGTTCTTTGAGTCCTTTGGGGACTTGTCCACTGCTGATGCTGTTATGAACAACCCTAAGGTGAAGGCCCATGGCAAGAAGGTGCTAGATTCCTTTAGTAATGGCATGAAGCATCTCGATGACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGATAAGCTGCATGTGGATCCTGAGAACTTCAAGCTCCTGGGCAACGTGCTAGTGGTTGTGCTGGCTCGCAATTTTGGCAAGGAATTCACCCCGGTGCTGCAGGCTGACTTTCAGAAGGTGGTGGCTGGTGTGGCCAATGCCCTGGCCCACAGATA</Hsp_hseq>
+      <Hsp_midline>|||| || ||| |||||||| || |||   ||| | |||| ||||||||| | ||| |||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||||||  |||||| | ||| |||||| |||  |||||| |||||||||||||| |||||||| |||||| | |||||| || | ||| || | ||||| ||  ||||||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||| |||||||||||||||||| || ||||||||||||||| | ||||||||||| |||||||| | | ||||||||  || ||| |||||||||||||||||||||||||| |||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|9</Hit_id>
+  <Hit_def>NM_001144841.1 Sus scrofa hemoglobin, beta (HBB), mRNA</Hit_def>
+  <Hit_accession>9</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.403</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>3.12409e-138</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>53</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>382</Hsp_identity>
+      <Hsp_positive>382</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>443</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGT-TGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGTCTGCTGAGGAGAAGGAGGCCGTCCTCGGCCTGTGGGGCAAAGTGAATGTGGACGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACTCAGAGGTTCTTCGAGTCCTTTGGGGACCTGTCCAATGCCGATGCCGTCATGGGCAATCCCAAGGTGAAGGCCCACGGCAAGAAGGTGCTCCAGTCCTTCAGTGACGGCCTGAAACATCTCGACAACCTCAAGGGCACCTTTGCTAAGCTGAGCGAGCTGCACTGTGACCAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGATAGTGGTTGTTCTGGCTCGCCGCCTTGGCCATGACTTCAACCC-GAATGTGCAGGCTGCTTTTCAGAAGGTGGTGGCTGGTGTTGCTAATGCCCTGGCCCACAAGTACCACT</Hsp_hseq>
+      <Hsp_midline>|||||||| |||  || ||| |||||||  || ||| | | |||||||| ||| ||||||| ||| |||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||| || ||||||||||| ||||||||| | | ||| || |||||||| |||||||||||||||||||||||||| ||||| || |||||  |||| ||| || | ||||| ||||||||||||||||||||||||  |||||| ||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | || ||||| |||||||||| | ||||| | || |||| ||| || | |||||||| | | ||| ||||||||||||||||| || ||||| ||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|18</Hit_id>
+  <Hit_def>NM_001329918.1 Chlorocebus sabaeus hemoglobin subunit beta (HBB), mRNA</Hit_def>
+  <Hit_accession>18</Hit_accession>
+  <Hit_len>616</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>468.323</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>6.76246e-135</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>482</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>380</Hsp_identity>
+      <Hsp_positive>380</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>443</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGT-TGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGACTCCTGAGGAGAAGACTGCCGTTACCACCCTGTGGGGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTGGTCTACCCTTGGACCCAGAGGTTCTTTGAGTCCTTTGGGGATCTGTCCTCTCCTGATGCTGTTATGGGCAACCCTAAGGTGAAGGCTCATGGCAAGAAAGTGCTTGGTGCCTTTAGTGATGGCCTGGCTCACCTGGACAACCTCAAGGGCACCTTTGCCCAGCTGAGTGAGCTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAGCTCCTGGGCAACGTGCTGGTGTG-TGTGCTGGCCCATCACTTTGGCAAAGAATTCACCCCGCAAGTGCAGGCTGCCTATCAGAAAGTGGTGGCTGGTGTGGCTAATGCCCTGGCCCACAAGTACCACT</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| |  ||| |||||| | || ||     ||||||||| ||||||||| | ||| |||||||||||||| |||||||||||||||||||| |||||||| ||||| |||||||||||||| ||||||||||||||||||  ||||| |||||| ||||||||||| ||||||||||| || ||||||||||||||     ||||| |||| ||| ||  ||| || |||||||||||||||||||||||   |||||||||||||||||||||||||||||| ||||||||||||||||||| ||||||||||||||||||||| || ||||||||| |  ||||||||||| || ||||||||  |  |||||||| ||||||| || ||||||||||||||||| ||||| ||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|10</Hit_id>
+  <Hit_def>NM_001097648.1 Ovis aries hemoglobin, beta (HBB), mRNA</Hit_def>
+  <Hit_accession>10</Hit_accession>
+  <Hit_len>438</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>468.323</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>6.76246e-135</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>436</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>433</Hsp_align-len>
+      <Hsp_qseq>CTGAGTGGTGAAGAGAAGGCAGCTGTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>CTGACTGCTGAGGAGAAGGCTGCCGTCACCGGCTTCTGGGGCAAGGTGAAAGTGGATGAAGTTGGTGCTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACTCAGAGGTTCTTTGAGCACTTTGGGGACTTGTCCTCTGCTGATGCTGTTATGAACAACGCTAAGGTGAAGGCCCATGGCAAGAAGGTGCTAGACTCCTTTAGTAACGGCGTGCAGCATCTTGACGACCTCAAGGGCACCTTTGCTCAGCTGAGTGAGCTGCACTGTGATAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTGGTTGTGCTGGCTCGCCACCATGGCAGTGAATTCACCCCGGTGCTGCAGGCTGAGTTTCAGAAGGTGGTGGCTGGTGTTGCCAATGCCCTGGCCCACAGATATCACT</Hsp_hseq>
+      <Hsp_midline>|||| || ||| |||||||| || |||   | | | |||| ||||||||| | ||| |||||||||| ||||||||||||||||||||||||||||||||| ||||||||||||||||||||   |||||||||  |||||  | ||| |||||| |||  |||| | |||||||||||||| |||||||| |||||| |||||||| || | |||||||| ||||||||| ||||||||||||||||||||  ||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||  |||||  || |||||||| | | ||||||||   | ||| ||||||||||||||||| |||||||| |||||||||| ||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|20</Hit_id>
+  <Hit_def>NM_001279263.1 Condylura cristata hemoglobin, beta (HBB), mRNA</Hit_def>
+  <Hit_accession>20</Hit_accession>
+  <Hit_len>626</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>377.837</Hsp_bit-score>
+      <Hsp_score>204</Hsp_score>
+      <Hsp_evalue>1.17234e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>444</Hsp_query-to>
+      <Hsp_hit-from>72</Hsp_hit-from>
+      <Hsp_hit-to>515</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>367</Hsp_identity>
+      <Hsp_positive>367</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>447</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCT-GTCTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAAT-CCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGT-TGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCATCTGTCTGGTGAGGAAAAGGGC-CTCGTCACCTCCATGTGGGGCAAGGTGAACGTGGATGAAGTTGGTGGTGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCCTGGACCCAGAGGTTCTTTGACAGCTTTGGTGACCTGTCCTCTGCCT-CTGCCATTATGGGCAATGCCAAGGTGAAGGCCCATGGCAAGAAGGTGGCCCACTCCATCACTGATGGCATCAAAAACCTGGACAACCTCAAAGGCACCTATGCCAAGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGACCCTGAGAACTTCAGGCTGCTGGGCAACGTGCTGGTGTG-TGTGCTGGCTCGCAACCTTGGCAAGGAATTCACCCCCCAGGCTCAGGCTGCCTTCCAGAAGGTGGTGCTTGGTGTGGCCACTGCCCTGGCTCACAAGTACCATTGA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||  |||||| || ||||   || |||    || |||||| ||||||||| | ||| |||||||||||||| ||||||||||||||||||||||||||||| ||||| |||||||||||||||  |||||| || ||||||  | |||  |||  | ||||||||  |||||||||||||||| |||||||| |||   |||||| |   ||| ||| |  |  | || ||||||||||| ||||||| |||   |||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| || ||||||||||||| || |||||||||| ||||||||  ||   |||||| |||  || |||||||||  ||||||||||| ||| ||||| ||||| ||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|1</Hit_id>
+  <Hit_def>NM_033234.1 Rattus norvegicus hemoglobin subunit beta (Hbb), mRNA</Hit_def>
+  <Hit_accession>1</Hit_accession>
+  <Hit_len>620</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>351.984</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>7.10578e-100</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>489</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>363</Hsp_identity>
+      <Hsp_positive>363</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>447</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGT-CTTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAAT-CCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTT-GACAACCTCAAGGGCACCTTTGCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCCACTTTGGCAAGGATTTCACCCCAGAGTTGCA--GGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCACCTGACTGATGCTGAGAAGGCTGCTGTTAATGG-CCTGTGGGGAAAGGTGAACCCTGATGATGTTGGTGGCGAGGCCCTGGGCAGGCTGCTGGTTGTCTACCCTTGGACCCAGAGGTACTTTGATAGCTTTGGGGACCTGTCCTCTGCCT-CTGCTATCATGGGTAACCCTAAGGTGAAGGCCCATGGCAAGAAGGTGATAAACGCCTTCAATGATGGCCTGAAACA-CTTGGACAACCTCAAGGGCACCTTTGCTCATCTGAGTGAACTCCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAGGCTCCTGGGCAATATGATTGTGATTGTGTTGGGCCACCACCTGGGCAAGGAATTCACCCCCT-GT-GCACAGGCTGCCTTCCAGAAGGTGGTGGCTGGAGTGGCCAGTGCCCTGGCTCACAAGTACCACT</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| || ||  |||||||| |||||   ||| ||||||||  ||||||||    || || |||||||| || ||||||||||||||||||||||||||||| ||||| ||||||| ||||||   ||||||||| ||||||  | |||  |||| | ||||| ||||| |||||||||||||| |||||||| ||| || || ||||   ||| ||| || | || ||| ||||||||||||||||||||||||   |||||||| || ||||||||||||||||| ||||||||||||||||||||||||||||||||  || | ||  ||||| |||  | |||| | |||||||| ||||||||   || |||  |||| |||  || |||||||||||||| ||||||| ||| ||||| ||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gnl|BL_ORD_ID|7</Hit_id>
+  <Hit_def>NM_001246752.1 Cricetulus griseus beta major globin chain (Hbb), mRNA</Hit_def>
+  <Hit_accession>7</Hit_accession>
+  <Hit_len>600</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>335.364</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>7.15623e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>442</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>359</Hsp_identity>
+      <Hsp_positive>359</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>446</Hsp_align-len>
+      <Hsp_qseq>ATGGTGCAACTGAGTGGTGAAGAGAAGGCAGCTGTC-TTGGCCCTGTGGGACAAGGTGAATGAGGAAGAAGTTGGTGGTGAAGCCCTGGGCAGGCTGCTGGTTGTCTACCCATGGACTCAGAGGTTCTTTGACTCCTTTGGGGATCTGTCCAATCCTGGTGCTGTGATGGGCAACCCCAAGGTGAAGGCCCACGGCAAGAAAGTGCTACACTCCTTTGGTGAGGGCGTGCATCATCTTGACAACCTCAAGGGCACCTTT-GCTGCGCTGAGTGAGCTGCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAGGCTCCTGGGCAACGTGCTGGTTGTTGTGCTGGCTCGCC-ACTTTGGCAAGGATTTCAC-CCCAGAGTTGCAGGCTTCCTATCAAAAGGTGGTGGCTGGTGTGGCCAATGCACTGGCCCACAAATACCACT</Hsp_qseq>
+      <Hsp_hseq>ATGGTGCACCTGACTGATGCTGAGAAGGCCCTTGTCACTGG-CCTGTGGGGAAAGGTGAACGCCGATGCAGTTGGCGCTGAGGCCCTGGGCAGGTTGCTGGTTGTCTACCCTTGGACCCAGAGGTTCTTTGAACACTTTGGAGACCTGTCTCTGCCAGTTGCTGTCATGAATAACCCCCAGGTGAAGGCCCATGGCAAGAAGGTGATCCACTCCTTCGCTGATGGCCTGAAACACCTGGACAACCTGAAGGGCGCCTTTTCCAGC-CTGAGTGAGCTCCACTGTGACAAGCTGCACGTGGATCCTGAGAACTTCAAGCTCCTGGGCAATATGATCATCATTGTGCTGA-TCCACGACCTGGGCAAGGACTTCACTCCCAGTGCA-CAGTCTGCCTTTCATAAGGTGGTGGCTGGTGTGGCCAATGCCCTGGCTCACAAGTACCACT</Hsp_hseq>
+      <Hsp_midline>|||||||| |||| || ||  ||||||||   ||||  ||| ||||||||  |||||||| |  || | |||||| | ||| |||||||||||| |||||||||||||||| ||||| ||||||||||||||   |||||| || |||||    || | |||||| |||   |||||| ||||||||||||| |||||||| ||| | |||||||| | ||| ||| || | || || |||||||| |||||| |||||  | || ||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||||||  || |  |  ||||||||  ||  | || | |||||||| ||||| ||||| |   ||| || ||| ||| |||||||||||||||||||||||||| ||||| ||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>24</Statistics_db-num>
+      <Statistics_db-len>15385</Statistics_db-len>
+      <Statistics_hsp-len>15</Statistics_hsp-len>
+      <Statistics_eff-space>6445725</Statistics_eff-space>
+      <Statistics_kappa>0.46</Statistics_kappa>
+      <Statistics_lambda>1.28</Statistics_lambda>
+      <Statistics_entropy>0.85</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

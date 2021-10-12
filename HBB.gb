@@ -1,0 +1,3082 @@
+LOCUS       NM_001168847             444 bp    mRNA    linear   PRI 27-APR-2020
+DEFINITION  Papio anubis hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001168847
+VERSION     NM_001168847.1
+KEYWORDS    RefSeq.
+SOURCE      Papio anubis (olive baboon)
+  ORGANISM  Papio anubis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Papio.
+REFERENCE   1  (bases 1 to 444)
+  AUTHORS   Francino MP and Ochman H.
+  TITLE     Strand symmetry around the beta-globin origin of replication in
+            primates
+  JOURNAL   Mol. Biol. Evol. 17 (3), 416-422 (2000)
+   PUBMED   10723742
+COMMENT     INFERRED REFSEQ: This record is predicted by genome sequence
+            analysis and is not yet supported by experimental evidence. The
+            reference sequence was derived from DP000505.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: EY275508.1, EY275701.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02045698, SAMN02401340
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Papio anubis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9555"
+                     /chromosome="12"
+                     /map="12"
+     gene            1..444
+                     /gene="HBB"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:100137310"
+     CDS             1..444
+                     /gene="HBB"
+                     /note="Beta-globin; Hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001162318.1"
+                     /db_xref="GeneID:100137310"
+                     /translation="MVHLTPEEKNAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSSPAAVMGNPKVKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPE
+                     NFKLLGNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     misc_feature    4..6
+                     /gene="HBB"
+                     /note="N-acetylvaline.
+                     /evidence=ECO:0000250|UniProtKB:P02086; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); acetylation site"
+     misc_feature    37..39
+                     /gene="HBB"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); phosphorylation site"
+     misc_feature    133..135
+                     /gene="HBB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); phosphorylation site"
+     misc_feature    178..180
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); acetylation site"
+     misc_feature    247..249
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); acetylation site"
+     misc_feature    433..435
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (Q9TSP1.2); acetylation site"
+     exon            1..92
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            93..315
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            316..444
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atggtgcatc tgactcctga ggagaagaat gccgttaccg ccctgtgggg caaagtgaac
+       61 gtggatgaag ttggtggtga ggccctgggc aggttgctgg tggtctaccc ttggacccag
+      121 aggttctttg attcctttgg ggatctgtcc tctcctgctg ctgttatggg caaccctaag
+      181 gtgaaggctc atggcaagaa agtgcttggt gcctttagtg atggcctgaa tcacctggac
+      241 aacctcaagg gcacctttgc ccagctcagt gagctgcact gtgacaagct gcatgtggat
+      301 cctgagaact tcaagctcct gggcaacgtg ctggtgtgtg tgctggccca tcactttggc
+      361 aaagaattca ccccgcaagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat
+      421 gccctggccc acaagtacca ctaa
+//
+
+LOCUS       NM_033234                620 bp    mRNA    linear   ROD 28-APR-2020
+DEFINITION  Rattus norvegicus hemoglobin subunit beta (Hbb), mRNA.
+ACCESSION   NM_033234 XM_215033
+VERSION     NM_033234.1
+KEYWORDS    RefSeq.
+SOURCE      Rattus norvegicus (Norway rat)
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Manu Pereira MD, Ropero P, Loureiro C and Vives Corrons JL.
+  TITLE     Low affinity hemoglobinopathy (Hb Vigo) due to a new mutation of
+            beta globin gene (c200 A>T; Lys>Ile). A cause of rare anemia
+            misdiagnosis
+  JOURNAL   Am. J. Hematol. 92 (4), E38-E40 (2017)
+   PUBMED   28066926
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Yu LH, Liu D, Cai R, Shang X, Zhang XH, Ma XX, Yan SH, Fang P,
+            Zheng CG, Wei XF, Liu YH, Zhou TB and Xu XM.
+  TITLE     Changes in hematological parameters in alpha-thalassemia
+            individuals co-inherited with erythroid Kruppel-like factor
+            mutations
+  JOURNAL   Clin. Genet. 88 (1), 56-61 (2015)
+   PUBMED   24930900
+REFERENCE   3  (bases 1 to 620)
+  AUTHORS   Shephard F, Greville-Heygate O, Marsh O, Anderson S and Chakrabarti
+            L.
+  TITLE     A mitochondrial location for haemoglobins--dynamic distribution in
+            ageing and Parkinson's disease
+  JOURNAL   Mitochondrion 14 (1), 64-72 (2014)
+   PUBMED   24333691
+REFERENCE   4  (bases 1 to 620)
+  AUTHORS   Bean CJ, Boulet SL, Yang G, Payne AB, Ghaji N, Pyle ME, Hooper WC,
+            Bhatnagar P, Keefer J, Barron-Casella EA, Casella JF and Debaun MR.
+  TITLE     Acute chest syndrome is associated with single nucleotide
+            polymorphism-defined beta globin cluster haplotype in children with
+            sickle cell anaemia
+  JOURNAL   Br. J. Haematol. 163 (2), 268-276 (2013)
+   PUBMED   23952145
+REFERENCE   5  (bases 1 to 620)
+  AUTHORS   Frobel J, Cadeddu RP, Hartwig S, Bruns I, Wilk CM, Kundgen A,
+            Fischer JC, Schroeder T, Steidl UG, Germing U, Lehr S, Haas R and
+            Czibere A.
+  TITLE     Platelet proteome analysis reveals integrin-dependent aggregation
+            defects in patients with myelodysplastic syndromes
+  JOURNAL   Mol. Cell Proteomics 12 (5), 1272-1280 (2013)
+   PUBMED   23382103
+REFERENCE   6  (bases 1 to 620)
+  AUTHORS   Silva MM, Rogers PH and Arnone A.
+  TITLE     A third quaternary structure of human hemoglobin A at 1.7-A
+            resolution
+  JOURNAL   J. Biol. Chem. 267 (24), 17248-17256 (1992)
+   PUBMED   1512262
+REFERENCE   7  (bases 1 to 620)
+  AUTHORS   Brennan SO, Shaw J, Allen J and George PM.
+  TITLE     Beta 141 Leu is not deleted in the unstable haemoglobin
+            Atlanta-Coventry but is replaced by a novel amino acid of mass 129
+            daltons
+  JOURNAL   Br. J. Haematol. 81 (1), 99-103 (1992)
+   PUBMED   1520632
+REFERENCE   8  (bases 1 to 620)
+  AUTHORS   Fischel-Ghodsian,N., Hirsch,P.C. and Bohlman,M.C.
+  TITLE     Rapid detection of the hemoglobin C mutation by allele-specific
+            polymerase chain reaction
+  JOURNAL   Am. J. Hum. Genet. 47 (6), 1023-1024 (1990)
+   PUBMED   2239966
+REFERENCE   9  (bases 1 to 620)
+  AUTHORS   Nagel,R.L., Lynfield,J., Johnson,J., Landau,L., Bookchin,R.M. and
+            Harris,M.B.
+  TITLE     Hemoglobin Beth Israel. A mutant causing clinically apparent
+            cyanosis
+  JOURNAL   N. Engl. J. Med. 295 (3), 125-130 (1976)
+   PUBMED   1272328
+REFERENCE   10 (bases 1 to 620)
+  AUTHORS   Garrick,L.M., Sharma,V.S., McDonald,M.J. and Ranney,H.M.
+  TITLE     Rat haemoglobin heterogeneity. Two structurally distinct alpha
+            chains and functional behaviour of selected components
+  JOURNAL   Biochem. J. 149 (1), 245-258 (1975)
+   PUBMED   242324
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X16417.1.
+            On Jan 12, 2005 this sequence version replaced XM_215033.1.
+            
+            Summary: beta-globin chain of hemoglobin, which binds and
+            transports oxygen to peripheral tissues [RGD, Feb 2006].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X16417.1, FQ209544.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00632250, SAMN00632251
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Rattus norvegicus"
+                     /mol_type="mRNA"
+                     /strain="Sprague-Dawley"
+                     /db_xref="taxon:10116"
+                     /chromosome="1"
+                     /map="1q32"
+     gene            1..620
+                     /gene="Hbb"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:24440"
+                     /db_xref="RGD:2783"
+     exon            1..139
+                     /gene="Hbb"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    21..23
+                     /gene="Hbb"
+                     /note="upstream in-frame stop codon"
+     CDS             48..491
+                     /gene="Hbb"
+                     /note="III beta-1 globin; III beta-2 globin;
+                     beta-1-globin; hemoglobin beta-1 chain; hemoglobin beta
+                     chain, major-form; hemoglobin beta chain complex;
+                     hemoglobin, beta"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta-1"
+                     /protein_id="NP_150237.1"
+                     /db_xref="GeneID:24440"
+                     /db_xref="RGD:2783"
+                     /translation="MVHLTDAEKAAVNGLWGKVNPDDVGGEALGRLLVVYPWTQRYFD
+                     SFGDLSSASAIMGNPKVKAHGKKVINAFNDGLKHLDNLKGTFAHLSELHCDKLHVDPE
+                     NFRLLGNMIVIVLGHHLGKEFTPCAQAAFQKVVAGVASALAHKYH"
+     misc_feature    51..53
+                     /gene="Hbb"
+                     /note="N-acetylvaline.
+                     /evidence=ECO:0000250|UniProtKB:P02086; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); acetylation site"
+     misc_feature    180..182
+                     /gene="Hbb"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); phosphorylation site"
+     misc_feature    198..200
+                     /gene="Hbb"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); phosphorylation site"
+     misc_feature    204..206
+                     /gene="Hbb"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:22673903; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); phosphorylation site"
+     misc_feature    360..362
+                     /gene="Hbb"
+                     /note="Asymmetric dimethylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P02089; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); methylation site"
+     misc_feature    417..419
+                     /gene="Hbb"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P11517; propagated from
+                     UniProtKB/Swiss-Prot (P02091.3); phosphorylation site"
+     exon            140..362
+                     /gene="Hbb"
+                     /inference="alignment:Splign:2.0.8"
+     exon            363..620
+                     /gene="Hbb"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 tgcttctgac atagttgtgt tgactcacaa actcagaaac agacaccatg gtgcacctga
+       61 ctgatgctga gaaggctgct gttaatggcc tgtggggaaa ggtgaaccct gatgatgttg
+      121 gtggcgaggc cctgggcagg ctgctggttg tctacccttg gacccagagg tactttgata
+      181 gctttgggga cctgtcctct gcctctgcta tcatgggtaa ccctaaggtg aaggcccatg
+      241 gcaagaaggt gataaacgcc ttcaatgatg gcctgaaaca cttggacaac ctcaagggca
+      301 cctttgctca tctgagtgaa ctccactgtg acaagctgca tgtggatcct gagaacttca
+      361 ggctcctggg caatatgatt gtgattgtgt tgggccacca cctgggcaag gaattcaccc
+      421 cctgtgcaca ggctgccttc cagaaggtgg tggctggagt ggccagtgcc ctggctcaca
+      481 agtaccacta aacctctttt cctgctcttg tctttgtgca atggtcaatt gttcccaaga
+      541 gagcatctgt cagttgttgt caaaatgaca aagacctttg aaaatctgtc ctactaataa
+      601 aaggcattta ctttcactgc
+//
+
+LOCUS       NM_000518                628 bp    mRNA    linear   PRI 20-APR-2020
+DEFINITION  Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_000518
+VERSION     NM_000518.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 628)
+  AUTHORS   Chen L, Luo S, Tang N, Wang Q, Xu Z, Qin L, Wang J, Zhong Q, Ya J,
+            Liu X, Cai R and Huang J.
+  TITLE     [Analysis of beta-globin gene variants in Liuzhou area of Guangxi]
+  JOURNAL   Zhonghua Yi Xue Yi Chuan Xue Za Zhi 37 (4), 378-383 (2020)
+   PUBMED   32219817
+  REMARK    GeneRIF: Through Sanger sequencing, rare genotypes such as
+            beta-32/betaN, betaCD41-42/betaIVS-II-5 and betaCD30/betaN were
+            detected in beta globin in patients with beta-thalassemia
+REFERENCE   2  (bases 1 to 628)
+  AUTHORS   Azman NF, Abdullah WZ, Hanafi S, Diana R, Bahar R, Johan MF,
+            Zilfalil BA and Hassan R.
+  TITLE     Genetic polymorphisms of HbE/beta thalassemia related to clinical
+            presentation: implications for clinical diversity
+  JOURNAL   Ann. Hematol. 99 (4), 729-735 (2020)
+   PUBMED   32078010
+  REMARK    GeneRIF: Malay transfusion-dependent HbE/beta-thalassemia patients
+            were genotyped. From the GWAS results, 20 most significant SNPs
+            were selected based on disease severity when compared between
+            moderate and severe groups. The significant SNPs found in this
+            study were mostly related to thalassemia complications such as
+            rs7372408, associated with KCNMB2-AS1 and SNPs associated with
+            disease severity.
+REFERENCE   3  (bases 1 to 628)
+  AUTHORS   Kowalski MH, Qian H, Hou Z, Rosen JD, Tapia AL, Shan Y, Jain D,
+            Argos M, Arnett DK, Avery C, Barnes KC, Becker LC, Bien SA, Bis JC,
+            Blangero J, Boerwinkle E, Bowden DW, Buyske S, Cai J, Cho MH, Choi
+            SH, Choquet H, Cupples LA, Cushman M, Daya M, de Vries PS, Ellinor
+            PT, Faraday N, Fornage M, Gabriel S, Ganesh SK, Graff M, Gupta N,
+            He J, Heckbert SR, Hidalgo B, Hodonsky CJ, Irvin MR, Johnson AD,
+            Jorgenson E, Kaplan R, Kardia SLR, Kelly TN, Kooperberg C, Lasky-Su
+            JA, Loos RJF, Lubitz SA, Mathias RA, McHugh CP, Montgomery C, Moon
+            JY, Morrison AC, Palmer ND, Pankratz N, Papanicolaou GJ, Peralta
+            JM, Peyser PA, Rich SS, Rotter JI, Silverman EK, Smith JA, Smith
+            NL, Taylor KD, Thornton TA, Tiwari HK, Tracy RP, Wang T, Weiss ST,
+            Weng LC, Wiggins KL, Wilson JG, Yanek LR, Zollner S, North KE, Auer
+            PL, Raffield LM, Reiner AP and Li Y.
+  CONSRTM   NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium;
+            TOPMed Hematology & Hemostasis Working Group
+  TITLE     Use of >100,000 NHLBI Trans-Omics for Precision Medicine (TOPMed)
+            Consortium whole genome sequences improves imputation quality and
+            detection of rare variant associations in admixed African and
+            Hispanic/Latino populations
+  JOURNAL   PLoS Genet. 15 (12), e1008500 (2019)
+   PUBMED   31869403
+  REMARK    GeneRIF: Results identified two rare variants in the HBB gene:
+            rs33930165 was associated with higher white blood cell count in
+            African populations, and rs11549407 with lower hemoglobin and
+            hematocrit in Hispanics/Latinos populations.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 628)
+  AUTHORS   Ndidi US, Adanho CSA, Santiago RP, Yahouedehou SCMA, Santana SS,
+            Mafili VV, Pitanga TN, Fonseca CA, Ferreira JRD, Adorno EV, Lyra
+            IM, Adekile AD, Barbosa CG and Goncalves MS.
+  TITLE     Effect of N(Epsilon)-(carboxymethyl)lysine on Laboratory Parameters
+            and Its Association with beta (S) Haplotype in Children with Sickle
+            Cell Anemia
+  JOURNAL   Dis. Markers 2019, 1580485 (2019)
+   PUBMED   31636731
+  REMARK    GeneRIF: the beta (S) haplotype in children with sickle cell anemia
+            is associated with N(Epsilon)-(carboxymethyl)lysine independent of
+            hydroxyurea therap
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 628)
+  AUTHORS   Calvo SE, Pagliarini DJ and Mootha VK.
+  TITLE     Upstream open reading frames cause widespread reduction of protein
+            expression and are polymorphic among humans
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (18), 7507-7512 (2009)
+   PUBMED   19372376
+  REMARK    GeneRIF: Includes the study of a disease-related upstream ORF in
+            this gene, and shows that it functions to reduce protein levels by
+            ~70%.
+REFERENCE   6  (bases 1 to 628)
+  AUTHORS   Origa,R.
+  TITLE     Beta-Thalassemia
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301599
+REFERENCE   7  (bases 1 to 628)
+  AUTHORS   Bender,M.A.
+  TITLE     Sickle Cell Disease
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301551
+REFERENCE   8  (bases 1 to 628)
+  AUTHORS   Adams,J.G., Steinberg,M.H., Boxer,L.A., Baehner,R.L., Forget,B.G.
+            and Tsistrakis,G.A.
+  TITLE     The structure of hemoglobin Indianapolis [beta112(G14) arginine].
+            An unstable variant detectable only by isotopic labeling
+  JOURNAL   J. Biol. Chem. 254 (9), 3479-3482 (1979)
+   PUBMED   429365
+REFERENCE   9  (bases 1 to 628)
+  AUTHORS   Marotta,C.A., Wilson,J.T., Forget,B.G. and Weissman,S.M.
+  TITLE     Human beta-globin messenger RNA. III. Nucleotide sequences derived
+            from complementary DNA
+  JOURNAL   J. Biol. Chem. 252 (14), 5040-5053 (1977)
+   PUBMED   68958
+REFERENCE   10 (bases 1 to 628)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Complete 3' noncoding region sequences of rabbit and human
+            beta-globin messenger RNAs
+  JOURNAL   Cell 10 (4), 559-570 (1977)
+   PUBMED   67897
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK311825.1 and BU661647.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jun 13, 2018 this sequence version replaced NM_000518.4.
+            
+            Summary: The alpha (HBA) and beta (HBB) loci determine the
+            structure of the 2 types of polypeptide chains in adult hemoglobin,
+            Hb A. The normal adult hemoglobin tetramer consists of two alpha
+            chains and two beta chains. Mutant beta globin causes sickle cell
+            anemia. Absence of beta chain causes beta-zero-thalassemia. Reduced
+            amounts of detectable beta globin causes beta-plus-thalassemia. The
+            order of the genes in the beta-globin cluster is 5'-epsilon --
+            gamma-G -- gamma-A -- delta -- beta--3'. [provided by RefSeq, Jul
+            2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AU139015.1, SRR5189652.246572.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000335295.4/ ENSP00000333994.3
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-494               AK311825.1         1-494
+            495-628             BU661647.1         507-640
+FEATURES             Location/Qualifiers
+     source          1..628
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p15.4"
+     gene            1..628
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+     exon            1..142
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="beta globin chain; hemoglobin, beta; hemoglobin
+                     beta subunit"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /db_xref="CCDS:CCDS7753.1"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylvaline. {ECO:0000250|UniProtKB:P02086};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) valine, in Hb A1c.
+                     {ECO:0000269|PubMed:635569}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-pyruvate 2-iminyl-valine, in Hb A1b; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); modified site"
+     misc_feature    72..77
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    75..77
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    78..80
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    87..89
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    102..104
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    126..131
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    138..143
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     mat_peptide     147..176
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="LVV-hemorphin-7"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     mat_peptide     147..167
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="Spinorphin"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     misc_feature    156..161
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    162..167
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    183..185
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    186..191
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    201..203
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    207..212
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    219..224
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    249..251
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    264..269
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    273..278
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:4531009};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     acetylation site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    303..308
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    312..314
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:24275569};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2);
+                     phosphorylation site"
+     misc_feature    327..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    330..332
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine. {ECO:0000269|PubMed:8637569,
+                     ECO:0000269|PubMed:9843411}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); nitrosylation site"
+     misc_feature    336..338
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Not glycated. {ECO:0000269|PubMed:7358733};
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    363..368
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    381..386
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    408..413
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    411..413
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    417..422
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    435..440
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    471..476
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    483..488
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. {ECO:0000269|PubMed:12552433}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     {ECO:0000269|PubMed:7358733}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine, alternate.
+                     {ECO:0000269|PubMed:4531009}; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     exon            143..365
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..628
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctcct gggcaacgtg ctggtctgtg tgctggccca tcactttggc aaagaattca
+      421 ccccaccagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtatca ctaagctcgc tttcttgctg tccaatttct attaaaggtt cctttgttcc
+      541 ctaagtccaa ctactaaact gggggatatt atgaagggcc ttgagcatct ggattctgcc
+      601 taataaaaaa catttatttt cattgcaa
+//
+
+LOCUS       NM_001304110             595 bp    mRNA    linear   VRT 17-APR-2020
+DEFINITION  Esox lucius hemoglobin subunit beta (LOC105010112), mRNA.
+ACCESSION   NM_001304110 XM_010869493
+VERSION     NM_001304110.1
+KEYWORDS    RefSeq.
+SOURCE      Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BT079683.1.
+            On Jan 13, 2015 this sequence version replaced XM_010869493.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BT079683.1, GH240011.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02724934, SAMN02724935
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-595               BT079683.1         6-600
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Esox lucius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8010"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..595
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:105010112"
+     exon            1..145
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    42..44
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /note="upstream in-frame stop codon"
+     CDS             54..500
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001291039.1"
+                     /db_xref="GeneID:105010112"
+                     /translation="MVQWTAAERKAIASVWGSISADEIGPQSVARLLIVFPWTRRYFS
+                     SFGNLADSAAILGNPKVANHGKTVMKALDKAVQNLDNIKKTYTALSVTHSEKLHVDPD
+                     NFKLLSECITVCIAAKLGPTVFDAYTHEAFYKFMCVVVSALSKQYH"
+     exon            146..368
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     exon            369..595
+                     /gene="LOC105010112"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gggtattcct atagaagaac tattgtgcga gtcaaaaccc ctaaatcgca aatatggttc
+       61 agtggacagc agctgagcgc aaagctatag caagcgtttg gggaagtatc agcgctgatg
+      121 agattggacc ccaatccgtg gccagacttt tgatcgtgtt tccatggact cggaggtatt
+      181 tcagcagctt cggtaacctg gccgactcag ctgccatctt gggtaacccc aaagtggcta
+      241 accatgggaa gacggtgatg aaggcacttg acaaggctgt gcagaacctg gataacatca
+      301 agaaaaccta caccgcactc agtgtgaccc attccgagaa actgcatgtg gatcctgaca
+      361 acttcaagct cttgtccgag tgcatcaccg tgtgcattgc cgcaaagctg ggccccaccg
+      421 ttttcgatgc ttatacccat gaagccttct acaagttcat gtgtgtggtt gtgtccgctc
+      481 tcagcaaaca gtaccactag agcattatta ttttacagag atgtgcaaca gctccagaat
+      541 taaaggctgt tgtcttttaa tgtcaattaa aacccattaa aaagcattac aatac
+//
+
+LOCUS       NM_001303935             618 bp    mRNA    linear   VRT 17-APR-2020
+DEFINITION  Esox lucius hemoglobin subunit beta (LOC105013372), mRNA.
+ACCESSION   NM_001303935 XM_010874851
+VERSION     NM_001303935.1
+KEYWORDS    RefSeq.
+SOURCE      Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 618)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BT079210.1.
+            On Jan 13, 2015 this sequence version replaced XM_010874851.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BT079210.1, GH264863.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02724934, SAMN02724935
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-618               BT079210.1         3-620
+FEATURES             Location/Qualifiers
+     source          1..618
+                     /organism="Esox lucius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8010"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..618
+                     /gene="LOC105013372"
+                     /gene_synonym="hbb"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:105013372"
+     exon            1..149
+                     /gene="LOC105013372"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             58..504
+                     /gene="LOC105013372"
+                     /gene_synonym="hbb"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001290864.1"
+                     /db_xref="GeneID:105013372"
+                     /translation="MVDWTTAERSAILGLWGKLNADEIGTQAFIRCLVVSHWTQRYFS
+                     SFGNLSTPAAIAGNPNVAKHGRTVMHGLDRAIQNLDDVKNTYAPLSVMHSEKLHVDPD
+                     NFRPLAECITVCVAAKLGPSVFDADTHEAFQKFLRVVVSALGRQYH"
+     exon            150..372
+                     /gene="LOC105013372"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     exon            373..618
+                     /gene="LOC105013372"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gggcagggat cccttggaac attttacaag taccaacgga aatcaacaaa cgtcaacatg
+       61 gtcgactgga caacagctga gcgcagtgcc atccttggcc tttggggaaa gctcaacgct
+      121 gatgagatcg gaacccaggc ctttatcaga tgtctggtcg tgtctcattg gactcagagg
+      181 tacttcagct ccttcggtaa cctgtccaca cccgctgcca tcgcaggtaa ccccaacgtg
+      241 gctaagcatg ggaggaccgt gatgcatgga ctggacagag ctatccagaa cctggatgac
+      301 gtcaagaaca cctacgctcc actgagtgtg atgcactccg agaaactgca cgtggatccc
+      361 gacaacttta ggcccctcgc ggaatgcatc accgtgtgcg tcgccgccaa gctgggtcct
+      421 tccgttttcg atgctgacac tcatgaagcc ttccagaagt tcctgcgtgt ggttgtttcg
+      481 gctctgggca gacagtacca ctagagcaca actcaaaaac atcaatgtgg aatacagatg
+      541 acgctcctac ttcagtcttt tagactgcaa gccgtgccat atcaagaaaa tattaaaata
+      601 ataaaatgat ttaaaagc
+//
+
+LOCUS       NM_001303868            1289 bp    mRNA    linear   VRT 17-APR-2020
+DEFINITION  Esox lucius hemoglobin, beta (LOC105028448), mRNA.
+ACCESSION   NM_001303868
+VERSION     NM_001303868.1
+KEYWORDS    RefSeq.
+SOURCE      Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1289)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BT079550.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BT079550.1, GH245138.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02724938, SAMN02724948
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1289              BT079550.1         6-1294
+FEATURES             Location/Qualifiers
+     source          1..1289
+                     /organism="Esox lucius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8010"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..1289
+                     /gene="LOC105028448"
+                     /gene_synonym="hbb"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:105028448"
+     exon            1..149
+                     /gene="LOC105028448"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             58..504
+                     /gene="LOC105028448"
+                     /gene_synonym="hbb"
+                     /codon_start=1
+                     /product="hemoglobin, beta"
+                     /protein_id="NP_001290797.1"
+                     /db_xref="GeneID:105028448"
+                     /translation="MVDWTDAERSAILGLWGKLSADEIGPQAFARCLIVFPWTQRYFS
+                     SFGNLSTPAAIMGNPNVAKHGRTVMHGLDKAIQNLDDIKNTYAALSVKHSEKLHVDPD
+                     NFRVLAECITVCVAAKLGPAVFNADTQEAFQKFLSVVVSALGRQYH"
+     exon            150..372
+                     /gene="LOC105028448"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+     exon            373..1289
+                     /gene="LOC105028448"
+                     /gene_synonym="hbb"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 agtgatcctt tggaacattt tgctagtgcc aacggaaatc aacaaacaaa cgtcatcatg
+       61 gtcgactgga cagatgctga gcgcagtgcc atccttggtc tttggggaaa gttgagcgcg
+      121 gacgagatcg gaccccaggc ctttgccaga tgtctgatcg tgtttccttg gactcagagg
+      181 tacttcagct ccttcggtaa cctgtccaca cccgctgcca tcatgggtaa ccccaacgtg
+      241 gctaagcatg ggaggaccgt gatgcacggt ctggacaaag ctattcagaa cctggatgac
+      301 atcaagaaca cctacgctgc tctcagtgtg aagcactccg agaaactgca cgtggatcct
+      361 gacaatttca gggtcctcgc cgaatgcatc accgtgtgcg tggccgcaaa actcgggccc
+      421 gcggttttca atgctgatac tcaggaagcc ttccagaagt tcctgtctgt cgttgtctcg
+      481 gctctcggca gacagtacca ctgagcagca ttccacaaca tcaatatgga agagagatga
+      541 tactcaaacg tcagtctatt cggctgaaag cggtgccata tctacaaata ttgaaataat
+      601 aaatagattt taaaattaat gcttgtcaac tattgtatgt tttacggtaa acgctctgtt
+      661 gcaacattaa aatgttttgc atatggcttt tgaaaaccca caccatcaag taatacttcc
+      721 gtagttttga tagagatatc gtggaatgtt ttgagattcc aataatgtta atatactttt
+      781 atttattctg agtttccaaa agcgcgtgaa attcgtgcac aaaatatatt taagtttacc
+      841 atattaaacc taatcatcca tttactttta gcgttgaagc atcatccaga ccgtttcttt
+      901 ggtatgcgca tacaactcag ctaaataaat ctctgaaact gaacttttgc caaaataact
+      961 gtctggatga tgagggaaca ctaaaagcga aaaattcaac cgttcctatc attaggtttg
+     1021 tttggaacta ataaaccgcg attactttga gtaggggata ggtgtaacat gggttagttg
+     1081 taacacatcc aatttctcta atttaggaat aaattacgaa taatttgatt caccctgcac
+     1141 atgctcaatt taatcatttt ttcacatgtg aagaagtagc aatggcagac acaaccattc
+     1201 ttcaaaggaa acgaattttg aaagtttttc ttttacctca ttaacttttt gtgatagtat
+     1261 tgccacctat gtaataaaat tcatcaaac
+//
+
+LOCUS       NM_001303858             620 bp    mRNA    linear   VRT 17-APR-2020
+DEFINITION  Esox lucius hemoglobin subunit beta (LOC105028446), mRNA.
+ACCESSION   NM_001303858 XM_010901203
+VERSION     NM_001303858.1
+KEYWORDS    RefSeq.
+SOURCE      Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BT079501.1.
+            On Jan 13, 2015 this sequence version replaced XM_010901203.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BT079501.1, GH246073.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02724936, SAMN02724948
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-620               BT079501.1         1-620
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Esox lucius"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8010"
+                     /map="LG11"
+                     /linkage_group="LG11"
+     gene            1..620
+                     /gene="LOC105028446"
+                     /gene_synonym="hbb"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:105028446"
+     misc_feature    53..55
+                     /gene="LOC105028446"
+                     /gene_synonym="hbb"
+                     /note="upstream in-frame stop codon"
+     CDS             68..514
+                     /gene="LOC105028446"
+                     /gene_synonym="hbb"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001290787.1"
+                     /db_xref="GeneID:105028446"
+                     /translation="MVVWTTAERNAIVGLWGKIGVDEIGHQAFARCLIVFPWTQRYFS
+                     SFGNLSTPAAIMGNPNVAKHGRTVIHGLDKAIQNLDDIKNTYAALSVKHSEKLHVDPD
+                     NFRLLAECITVCVAAKLGPEVFNADAHEAFHKFLAVVVSALGRQYH"
+ORIGIN      
+        1 gggggggcac aggaatcctt tggaacattt tggtattact aacggaaatc gctgaaaaaa
+       61 cgtcaacatg gtcgtctgga caacggctga acgcaatgcc atcgttggcc tttggggaaa
+      121 gatcggtgtg gatgagatcg gacaccaggc ctttgccaga tgtctgatcg tgtttccttg
+      181 gactcagagg tacttcagct cattcggtaa cctgtccaca cccgctgcca tcatgggtaa
+      241 ccccaacgtg gctaagcatg ggaggaccgt gatacacggt ctggacaaag ctattcagaa
+      301 cctggatgac atcaagaaca cttacgctgc tctcagtgtg aagcactccg agaaactgca
+      361 cgtggatccc gacaatttca ggctcctcgc ggaatgcatc accgtgtgcg tggctgccaa
+      421 gctcgggcct gaagttttca atgctgacgc tcatgaagcc tttcataagt tcctggctgt
+      481 tgttgtttcg gctctcggca gacaatacca ctagagtggc actcgacagc aatatggagg
+      541 gaggaaacac caagtctagt catgtaggtt gaagctggtc atatctccga atattgaaat
+      601 aataaaaccg atataaaata
+//
+
+LOCUS       NM_001246752             600 bp    mRNA    linear   ROD 28-DEC-2019
+DEFINITION  Cricetulus griseus beta major globin chain (Hbb), mRNA.
+ACCESSION   NM_001246752 XM_003516147
+VERSION     NM_001246752.1
+KEYWORDS    RefSeq.
+SOURCE      Cricetulus griseus (Chinese hamster)
+  ORGANISM  Cricetulus griseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Cricetidae; Cricetinae; Cricetulus.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Lee KM, Subar M, Li H and Boussios T.
+  TITLE     Cloning of two adult hamster globin cDNAs (alpha and beta major)
+  JOURNAL   Biochim. Biophys. Acta 1130 (3), 343-344 (1992)
+   PUBMED   1562610
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X57030.1.
+            On Sep 26, 2012 this sequence version replaced XM_003516147.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X57030.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN06481668, SAMN10388090
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Cricetulus griseus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10029"
+     gene            1..600
+                     /gene="Hbb"
+                     /note="beta major globin chain"
+                     /db_xref="GeneID:100689319"
+     exon            1..143
+                     /gene="Hbb"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             52..495
+                     /gene="Hbb"
+                     /note="Beta-globin; Hemoglobin subunit beta; Hemoglobin
+                     beta chain; Hemoglobin beta-major chain"
+                     /codon_start=1
+                     /product="beta major globin chain"
+                     /protein_id="NP_001233681.1"
+                     /db_xref="GeneID:100689319"
+                     /translation="MVHLTDAEKALVTGLWGKVNADAVGAEALGRLLVVYPWTQRFFE
+                     HFGDLSLPVAVMNNPQVKAHGKKVIHSFADGLKHLDNLKGAFSSLSELHCDKLHVDPE
+                     NFKLLGNMIIIVLIHDLGKDFTPSAQSAFHKVVAGVANALAHKYH"
+     exon            144..366
+                     /gene="Hbb"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 tttgcttctg acattagttg tgttgagtca caagcccaga aacaagacac catggtgcac
+       61 ctgactgatg ctgagaaggc ccttgtcact ggcctgtggg gaaaggtgaa cgccgatgca
+      121 gttggcgctg aggccctggg caggttgctg gttgtctacc cttggaccca gaggttcttt
+      181 gaacactttg gagacctgtc tctgccagtt gctgtcatga ataaccccca ggtgaaggcc
+      241 catggcaaga aggtgatcca ctccttcgct gatggcctga aacacctgga caacctgaag
+      301 ggcgcctttt ccagcctgag tgagctccac tgtgacaagc tgcacgtgga tcctgagaac
+      361 ttcaagctcc tgggcaatat gatcatcatt gtgctgatcc acgacctggg caaggacttc
+      421 actcccagtg cacagtctgc ctttcataag gtggtggctg gtgtggccaa tgccctggct
+      481 cacaagtacc actaaactcc ctttcctgcc cttatttctg tgactcaaaa gtcacttgtt
+      541 ccctagagaa caactgtcaa cctgtgagaa aaatgagaag agcactttag ggacatctgc
+//
+
+LOCUS       NM_001086273             640 bp    mRNA    linear   VRT 26-DEC-2019
+DEFINITION  Xenopus laevis hemoglobin subunit delta S homeolog (hbd.S), mRNA.
+ACCESSION   NM_001086273
+VERSION     NM_001086273.2
+KEYWORDS    RefSeq.
+SOURCE      Xenopus laevis (African clawed frog)
+  ORGANISM  Xenopus laevis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Pipoidea; Pipidae; Xenopodinae;
+            Xenopus; Xenopus.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Klein SL, Strausberg RL, Wagner L, Pontius J, Clifton SW and
+            Richardson P.
+  TITLE     Genetic and genomic tools for Xenopus research: The NIH Xenopus
+            initiative
+  JOURNAL   Dev. Dyn. 225 (4), 384-391 (2002)
+   PUBMED   12454917
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Knochel,W., Meyerhof,W., Stalder,J. and Weber,R.
+  TITLE     Comparative nucleotide sequence analysis of two types of larval
+            beta-globin mRNAs of Xenopus laevis
+  JOURNAL   Nucleic Acids Res. 13 (21), 7899-7908 (1985)
+   PUBMED   2999708
+REFERENCE   3  (bases 1 to 640)
+  AUTHORS   Meyerhof,W., Klinger-Mitropoulos,S., Stalder,J., Weber,R. and
+            Knochel,W.
+  TITLE     The primary structure of the larval beta 1-globin gene of Xenopus
+            laevis and its flanking regions
+  JOURNAL   Nucleic Acids Res. 12 (20), 7705-7719 (1984)
+   PUBMED   6093050
+REFERENCE   4  (bases 1 to 640)
+  AUTHORS   Banville,D., Kay,R.M., Harris,R. and Williams,J.G.
+  TITLE     The nucleotide sequence of the mRNA encoding a tadpole beta-globin
+            polypeptide of Xenopus laevis
+  JOURNAL   J. Biol. Chem. 258 (13), 7924-7927 (1983)
+   PUBMED   6688076
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from BC053807.1.
+            On Sep 23, 2016 this sequence version replaced NM_001086273.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC053807.1, BC078582.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMD00012418, SAMD00012419
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-640               BC053807.1         2-641
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /organism="Xenopus laevis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8355"
+                     /chromosome="9_10S"
+     gene            1..640
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /note="hemoglobin subunit delta S homeolog"
+                     /db_xref="GeneID:379431"
+                     /db_xref="Xenbase:XB-GENE-5844733"
+     exon            1..152
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    34..36
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /note="upstream in-frame stop codon"
+     CDS             61..504
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /note="globin, beta I, larval; beta-1-globin; hemoglobin
+                     beta-1 chain, larval; hemoglobin, delta"
+                     /codon_start=1
+                     /product="hemoglobin larval subunit beta-1"
+                     /protein_id="NP_001079742.1"
+                     /db_xref="GeneID:379431"
+                     /db_xref="Xenbase:XB-GENE-5844733"
+                     /translation="MVHLSADEKSAINAVWSKVNIENDGHDALTRLLVVFPWTQRYFS
+                     SFGNLSNVAAISGNAKVRAHGKKVLSAVDESIHHLDDIKNFLSVLSTKHAEELHVDPE
+                     NFKRLADVLVIVLAGKLGAAFTPQVQAAWEKFSAGLVAALSHGYF"
+     exon            153..375
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /inference="alignment:Splign:2.1.0"
+     exon            376..609
+                     /gene="hbd.S"
+                     /gene_synonym="hbb; hbd"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acagcagcct cttacttctg ccatttgaag tcttagcagc tactcccatc tacagccacc
+       61 atggtgcacc tgtcagctga tgagaaatcc gccattaacg ccgtatggtc aaaggtcaac
+      121 attgaaaatg atggccatga tgccctgacc aggctgctgg ttgtgtttcc ctggacccag
+      181 aggtatttca gcagctttgg aaacctatcc aatgtggctg ccatctctgg aaatgccaag
+      241 gttcgtgccc atggcaagaa ggttttgtct gccgtcgatg aatccatcca ccatttagat
+      301 gatatcaaga acttcctctc tgtactgagc acgaagcacg ctgaggaact ccacgtggac
+      361 cctgaaaact tcaagcgtct tgctgatgtg ctggtgattg tcttggctgg caaactggga
+      421 gctgccttca ctcctcaagt ccaggctgct tgggagaaat tcagcgctgg gctggtggct
+      481 gctcttagcc atggctactt ctaaagaatt tttttccatg caaagcccaa catctgctcg
+      541 cctgcaacaa agacaactct cacaataagt gcattgcttg ttgtcaataa agatttcttg
+      601 tcaaactgcc aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+//
+
+LOCUS       NM_001144841             496 bp    mRNA    linear   MAM 01-MAY-2020
+DEFINITION  Sus scrofa hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001144841
+VERSION     NM_001144841.1
+KEYWORDS    RefSeq.
+SOURCE      Sus scrofa (pig)
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Suina; Suidae;
+            Sus.
+REFERENCE   1  (bases 1 to 496)
+  AUTHORS   Li D, Dong H, Li S, Munir M, Chen J, Luo Y, Sun Y, Liu L and Qiu
+            HJ.
+  TITLE     Hemoglobin subunit beta interacts with the capsid protein and
+            antagonizes the growth of classical swine fever virus
+  JOURNAL   J. Virol. 87 (10), 5707-5717 (2013)
+   PUBMED   23487454
+  REMARK    GeneRIF: In this study, hemoglobin subunit beta was identified as a
+            classical swine fever virus capsid protein-binding protein by
+            glutathione S-transferase pulldown and subsequent mass spectrometry
+            analysis of PK-15 cells.
+REFERENCE   2  (bases 1 to 496)
+  AUTHORS   Uenishi H, Eguchi-Ogawa T, Shinkai H, Okumura N, Suzuki K, Toki D,
+            Hamasima N and Awata T.
+  TITLE     PEDE (Pig EST Data Explorer) has been expanded into Pig Expression
+            Data Explorer, including 10 147 porcine full-length cDNA sequences
+  JOURNAL   Nucleic Acids Res. 35 (Database issue), D650-D653 (2007)
+   PUBMED   17145712
+REFERENCE   3  (bases 1 to 496)
+  AUTHORS   Jorgensen FG, Hobolth A, Hornshoj H, Bendixen C, Fredholm M and
+            Schierup MH.
+  TITLE     Comparative analysis of protein coding sequences from human, mouse
+            and the domesticated pig
+  JOURNAL   BMC Biol. 3, 2 (2005)
+   PUBMED   15679890
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 496)
+  AUTHORS   Uenishi H, Eguchi T, Suzuki K, Sawazaki T, Toki D, Shinkai H,
+            Okumura N, Hamasima N and Awata T.
+  TITLE     PEDE (Pig EST Data Explorer): construction of a database for ESTs
+            derived from porcine full-length cDNA libraries
+  JOURNAL   Nucleic Acids Res. 32 (Database issue), D484-D488 (2004)
+   PUBMED   14681463
+REFERENCE   5  (bases 1 to 496)
+  AUTHORS   Lu TH, Panneerselvam K, Liaw YC, Kan P and Lee CJ.
+  TITLE     Structure determination of porcine haemoglobin
+  JOURNAL   Acta Crystallogr. D Biol. Crystallogr. 56 (Pt 3), 304-312 (2000)
+   PUBMED   10713517
+REFERENCE   6  (bases 1 to 496)
+  AUTHORS   Yerle M, Lahbib-Mansais Y, Pinton P, Robic A, Goureau A, Milan D
+            and Gellin J.
+  TITLE     The cytogenetic map of the domestic pig
+  JOURNAL   Mamm. Genome 8 (8), 592-607 (1997)
+   PUBMED   9250869
+REFERENCE   7  (bases 1 to 496)
+  AUTHORS   Katz DS, White SP, Huang W, Kumar R and Christianson DW.
+  TITLE     Structure determination of aquomet porcine hemoglobin at 2.8 A
+            resolution
+  JOURNAL   J. Mol. Biol. 244 (5), 541-553 (1994)
+   PUBMED   7990139
+REFERENCE   8  (bases 1 to 496)
+  AUTHORS   Sharma A, Martin MJ, Okabe JF, Truglio RA, Dhanjal NK, Logan JS and
+            Kumar R.
+  TITLE     An isologous porcine promoter permits high level expression of
+            human hemoglobin in transgenic swine
+  JOURNAL   Biotechnology (N.Y.) 12 (1), 55-59 (1994)
+   PUBMED   7764326
+REFERENCE   9  (bases 1 to 496)
+  AUTHORS   Rando,A. and Masina,P.
+  TITLE     Restriction site polymorphisms in the pig beta-globin gene cluster
+  JOURNAL   Anim Blood Groups Biochem Genet 16 (1), 35-40 (1985)
+   PUBMED   2988373
+REFERENCE   10 (bases 1 to 496)
+  AUTHORS   Braunitzer,G., Schrank,B., Stangl,A. and Scheithauer,U.
+  TITLE     [Hemoglobins, XXI: sequence analysis of porcine hemoglobin
+            (author's transl)]
+  JOURNAL   Hoppe-Seyler's Z. Physiol. Chem. 359 (2), 137-146 (1978)
+   PUBMED   565742
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X86791.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK236845.1, AK236946.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01048372, SAMN01915402
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..496
+                     /organism="Sus scrofa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9823"
+                     /chromosome="9"
+                     /map="9"
+     gene            1..496
+                     /gene="HBB"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:407066"
+     exon            1..144
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             53..496
+                     /gene="HBB"
+                     /note="Beta-globin; Hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001138313.1"
+                     /db_xref="GeneID:407066"
+                     /translation="MVHLSAEEKEAVLGLWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSNADAVMGNPKVKAHGKKVLQSFSDGLKHLDNLKGTFAKLSELHCDQLHVDPE
+                     NFRLLGNVIVVVLARRLGHDFNPNVQAAFQKVVAGVANALAHKYH"
+     misc_feature    56..58
+                     /gene="HBB"
+                     /note="N-acetylvaline.
+                     /evidence=ECO:0000250|UniProtKB:P02086; propagated from
+                     UniProtKB/Swiss-Prot (P02067.3); acetylation site"
+     misc_feature    185..187
+                     /gene="HBB"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02067.3); phosphorylation site"
+     misc_feature    230..232
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02067.3); acetylation site"
+     misc_feature    299..301
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02067.3); acetylation site"
+     misc_feature    485..487
+                     /gene="HBB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02067.3); acetylation site"
+     exon            145..367
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            368..496
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acatttgctt ctgacacaac cgtgttcact agcaactgca caaacagaca acatggtgca
+       61 tctgtctgct gaggagaagg aggccgtcct cggcctgtgg ggcaaagtga atgtggacga
+      121 agttggtggt gaggccctgg gcaggctgct ggttgtctac ccctggactc agaggttctt
+      181 cgagtccttt ggggacctgt ccaatgccga tgccgtcatg ggcaatccca aggtgaaggc
+      241 ccacggcaag aaggtgctcc agtccttcag tgacggcctg aaacatctcg acaacctcaa
+      301 gggcaccttt gctaagctga gcgagctgca ctgtgaccag ctgcacgtgg atcctgagaa
+      361 cttcaggctc ctgggcaacg tgatagtggt tgttctggct cgccgccttg gccatgactt
+      421 caacccgaat gtgcaggctg cttttcagaa ggtggtggct ggtgttgcta atgccctggc
+      481 ccacaagtac cactaa
+//
+
+LOCUS       NM_001097648             438 bp    mRNA    linear   MAM 24-DEC-2019
+DEFINITION  Ovis aries hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001097648
+VERSION     NM_001097648.1
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+REFERENCE   1  (bases 1 to 438)
+  AUTHORS   Manca L, Pirastru M, Mereu P, Multineddu C, Olianas A, el Sherbini
+            el S, Franceschi P, Pellegrini M and Masala B.
+  TITLE     Barbary sheep (Ammotragus lervia): the structure of the adult
+            beta-globin gene and the functional properties of its hemoglobin
+  JOURNAL   Comp. Biochem. Physiol. B, Biochem. Mol. Biol. 145 (2), 214-219
+            (2006)
+   PUBMED   16962804
+REFERENCE   2  (bases 1 to 438)
+  AUTHORS   Garner KJ and Lingrel JB.
+  TITLE     A comparison of the beta A-and beta B-globin gene clusters of sheep
+  JOURNAL   J. Mol. Evol. 28 (3), 175-184 (1989)
+   PUBMED   2494347
+REFERENCE   3  (bases 1 to 438)
+  AUTHORS   Kretschmer,P.J., Coon,H.C., Davis,A., Harrison,M. and Nienhuis,A.W.
+  TITLE     Hemoglobin switching in sheep. Isolation of the fetal gamma-globin
+            gene and demonstration that the fetal gamma- and adult beta
+            A-globin genes lie within eight kilobase segments of homologous DNA
+  JOURNAL   J. Biol. Chem. 256 (4), 1975-1982 (1981)
+   PUBMED   6161931
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from DQ352470.1.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: single sample supports all introns
+                              SAMEA104494974, SAMEA104494977 [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Ovis aries"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9940"
+                     /chromosome="15"
+                     /map="15"
+     gene            1..438
+                     /gene="HBB"
+                     /gene_synonym="HBBA; HBBB"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:100049064"
+     CDS             1..438
+                     /gene="HBB"
+                     /gene_synonym="HBBA; HBBB"
+                     /note="globin, beta; A-beta-globin"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001091117.1"
+                     /db_xref="GeneID:100049064"
+                     /translation="MLTAEEKAAVTGFWGKVKVDEVGAEALGRLLVVYPWTQRFFEHF
+                     GDLSSADAVMNNAKVKAHGKKVLDSFSNGVQHLDDLKGTFAQLSELHCDKLHVDPENF
+                     RLLGNVLVVVLARHHGSEFTPVLQAEFQKVVAGVANALAHRYH"
+     exon            1..86
+                     /gene="HBB"
+                     /gene_synonym="HBBA; HBBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            87..309
+                     /gene="HBB"
+                     /gene_synonym="HBBA; HBBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            310..438
+                     /gene="HBB"
+                     /gene_synonym="HBBA; HBBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atgctgactg ctgaggagaa ggctgccgtc accggcttct ggggcaaggt gaaagtggat
+       61 gaagttggtg ctgaagccct gggcaggctg ctggttgtct acccctggac tcagaggttc
+      121 tttgagcact ttggggactt gtcctctgct gatgctgtta tgaacaacgc taaggtgaag
+      181 gcccatggca agaaggtgct agactccttt agtaacggcg tgcagcatct tgacgacctc
+      241 aagggcacct ttgctcagct gagtgagctg cactgtgata agctgcacgt ggatcctgag
+      301 aacttcaggc tcctgggcaa cgtgctggtg gttgtgctgg ctcgccacca tggcagtgaa
+      361 ttcaccccgg tgctgcaggc tgagtttcag aaggtggtgg ctggtgttgc caatgccctg
+      421 gcccacagat atcactaa
+//
+
+LOCUS       NM_173917                633 bp    mRNA    linear   MAM 02-MAY-2020
+DEFINITION  Bos taurus hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_173917
+VERSION     NM_173917.2
+KEYWORDS    RefSeq.
+SOURCE      Bos taurus (cattle)
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Ruminantia;
+            Pecora; Bovidae; Bovinae; Bos.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Iram A, Alam T, Khan JM, Khan TA, Khan RH and Naeem A.
+  TITLE     Molten globule of hemoglobin proceeds into aggregates and advanced
+            glycated end products
+  JOURNAL   PLoS ONE 8 (8), e72075 (2013)
+   PUBMED   23991043
+  REMARK    GeneRIF: Data indicate that on incubating hemoglobin with glyoxal
+            for 0-20 days, advanced glycation end products (AGEs) were detected
+            on day 20.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Tanaka K, Takizawa T, Dorji T, Amano T, Mannen H, Maeda Y, Yamamoto
+            Y and Namikawa T.
+  TITLE     Polymorphisms in the bovine hemoglobin-beta gene provide evidence
+            for gene-flow between wild species of Bos (Bibos) and domestic
+            cattle in Southeast Asia
+  JOURNAL   Anim. Sci. J. 82 (1), 36-45 (2011)
+   PUBMED   21269357
+REFERENCE   3  (bases 1 to 633)
+  AUTHORS   Zimin AV, Delcher AL, Florea L, Kelley DR, Schatz MC, Puiu D,
+            Hanrahan F, Pertea G, Van Tassell CP, Sonstegard TS, Marcais G,
+            Roberts M, Subramanian P, Yorke JA and Salzberg SL.
+  TITLE     A whole-genome assembly of the domestic cow, Bos taurus
+  JOURNAL   Genome Biol. 10 (4), R42 (2009)
+   PUBMED   19393038
+REFERENCE   4  (bases 1 to 633)
+  AUTHORS   Boys BL, Kuprowski MC and Konermann L.
+  TITLE     Symmetric behavior of hemoglobin alpha- and beta- subunits during
+            acid-induced denaturation observed by electrospray mass
+            spectrometry
+  JOURNAL   Biochemistry 46 (37), 10675-10684 (2007)
+   PUBMED   17718518
+  REMARK    GeneRIF: The acid-induced denaturation of Hb follows a highly
+            symmetric mechanism.
+REFERENCE   5  (bases 1 to 633)
+  AUTHORS   Safo MK and Abraham DJ.
+  TITLE     The X-ray structure determination of bovine carbonmonoxy hemoglobin
+            at 2.1 A resoultion and its relationship to the quaternary
+            structures of other hemoglobin crystal froms
+  JOURNAL   Protein Sci. 10 (6), 1091-1099 (2001)
+   PUBMED   11369847
+REFERENCE   6  (bases 1 to 633)
+  AUTHORS   Amarante MR, Gallagher DS, Burzlaff JD, Lopes CR, Womack JE, Taylor
+            JF and Davis SK.
+  TITLE     Physical mapping of ADCY2, FSHB and HBB to bovine chromosome 15 by
+            FISH of bovine bacterial artificial chromosome clones
+  JOURNAL   Cytogenet. Cell Genet. 85 (3-4), 271-272 (1999)
+   PUBMED   10449916
+REFERENCE   7  (bases 1 to 633)
+  AUTHORS   Perutz MF, Fermi G, Poyart C, Pagnier J and Kister J.
+  TITLE     A novel allosteric mechanism in haemoglobin. Structure of bovine
+            deoxyhaemoglobin, absence of specific chloride-binding sites and
+            origin of the chloride-linked Bohr effect in bovine and human
+            haemoglobin
+  JOURNAL   J. Mol. Biol. 233 (3), 536-545 (1993)
+   PUBMED   8411160
+REFERENCE   8  (bases 1 to 633)
+  AUTHORS   Schimenti,J.C. and Duncan,C.H.
+  TITLE     Ruminant globin gene structures suggest an evolutionary role for
+            Alu-type repeats
+  JOURNAL   Nucleic Acids Res. 12 (3), 1641-1655 (1984)
+   PUBMED   6322113
+REFERENCE   9  (bases 1 to 633)
+  AUTHORS   Schroeder,W.A., Shelton,J.R., Shelton,J.B., Apell,G., Huisman,T.H.,
+            Smith,L.L. and Carr,W.R.
+  TITLE     Amino acid sequences in the -chains of adult bovine hemoglobins
+            C-Rhodesia and D-Zambia
+  JOURNAL   Arch. Biochem. Biophys. 152 (1), 222-232 (1972)
+   PUBMED   4561255
+REFERENCE   10 (bases 1 to 633)
+  AUTHORS   Schroeder,W.A., Shelton,J.R., Shelton,J.B., Robberson,B. and
+            Babin,D.R.
+  TITLE     A comparison of amino acid sequences in the beta-chains of adult
+            bovine hemoglobins A and B
+  JOURNAL   Arch. Biochem. Biophys. 120 (1), 124-135 (1967)
+   PUBMED   6048711
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            DY458388.1 and DY466682.1.
+            On Nov 16, 2007 this sequence version replaced NM_173917.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: EV634527.1, AM008843.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN03145412, SAMN03145413
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-402               DY458388.1         5-406
+            403-633             DY466682.1         361-591
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /organism="Bos taurus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9913"
+                     /chromosome="15"
+                     /map="15q22-q27"
+     gene            1..633
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="hemoglobin, beta"
+                     /db_xref="BGD:BT11614"
+                     /db_xref="GeneID:280813"
+     exon            1..138
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             53..490
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="beta globin; hemoglobin beta chain; globin A1"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_776342.1"
+                     /db_xref="BGD:BT11614"
+                     /db_xref="GeneID:280813"
+                     /translation="MLTAEEKAAVTAFWGKVKVDEVGGEALGRLLVVYPWTQRFFESF
+                     GDLSTADAVMNNPKVKAHGKKVLDSFSNGMKHLDDLKGTFAALSELHCDKLHVDPENF
+                     KLLGNVLVVVLARNFGKEFTPVLQADFQKVVAGVANALAHRYH"
+     misc_feature    83..85
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02070.1); phosphorylation site"
+     misc_feature    179..181
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02070.1); phosphorylation site"
+     misc_feature    224..226
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02070.1); acetylation site"
+     misc_feature    293..295
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P68871; propagated from
+                     UniProtKB/Swiss-Prot (P02070.1); acetylation site"
+     exon            139..361
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            362..615
+                     /gene="HBB"
+                     /gene_synonym="GLNA1"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acacttgctt ctgacacaac cgtgttcact agcaactaca caaacagaca ccatgctgac
+       61 tgctgaggag aaggctgccg tcaccgcctt ttggggcaag gtgaaagtgg atgaagttgg
+      121 tggtgaggcc ctgggcaggc tgctggttgt ctacccctgg actcagaggt tctttgagtc
+      181 ctttggggac ttgtccactg ctgatgctgt tatgaacaac cctaaggtga aggcccatgg
+      241 caagaaggtg ctagattcct ttagtaatgg catgaagcat ctcgatgacc tcaagggcac
+      301 ctttgctgcg ctgagtgagc tgcactgtga taagctgcat gtggatcctg agaacttcaa
+      361 gctcctgggc aacgtgctag tggttgtgct ggctcgcaat tttggcaagg aattcacccc
+      421 ggtgctgcag gctgactttc agaaggtggt ggctggtgtg gccaatgccc tggcccacag
+      481 atatcattaa gctccctttc ctgctttcca ggaaaggttt tttcatcctc agagcccaaa
+      541 gattgaatat ggaaaaatta tgaagtgttt tgagcatctg gcctctgcct aataaagaca
+      601 tttattttca ttgcaaaaaa aaaaaaaaaa aaa
+//
+
+LOCUS       NM_131020                716 bp    mRNA    linear   VRT 25-SEP-2019
+DEFINITION  Danio rerio hemoglobin, beta adult 1 (hbba1), mRNA.
+ACCESSION   NM_131020 NM_001005403 XM_001330927
+VERSION     NM_131020.3
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Danio.
+REFERENCE   1  (bases 1 to 716)
+  AUTHORS   Pasquier J, Cabau C, Nguyen T, Jouanno E, Severac D, Braasch I,
+            Journot L, Pontarotti P, Klopp C, Postlethwait JH, Guiguen Y and
+            Bobe J.
+  TITLE     Gene evolution and gene expression after whole genome duplication
+            in fish: the PhyloFish database
+  JOURNAL   BMC Genomics 17, 368 (2016)
+   PUBMED   27189481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 716)
+  AUTHORS   Nolte H, Konzer A, Ruhs A, Jungblut B, Braun T and Kruger M.
+  TITLE     Global protein expression profiling of zebrafish organs based on in
+            vivo incorporation of stable isotopes
+  JOURNAL   J. Proteome Res. 13 (4), 2162-2174 (2014)
+   PUBMED   24611545
+REFERENCE   3  (bases 1 to 716)
+  AUTHORS   Gebriel M, Prabhudesai S, Uleberg KE, Larssen E, Piston D,
+            Bjornstad AH and Moller SG.
+  TITLE     Zebrafish brain proteomics reveals central proteins involved in
+            neurodegeneration
+  JOURNAL   J. Neurosci. Res. 92 (1), 104-115 (2014)
+   PUBMED   24123299
+REFERENCE   4  (bases 1 to 716)
+  AUTHORS   Lin,C., Lin,C.N., Wang,Y.C., Liu,F.Y., Chien,Y.W., Chuang,Y.J.,
+            Lan,C.Y., Hsieh,W.P. and Chen,B.S.
+  TITLE     Robustness analysis on interspecies interaction network for iron
+            and glucose competition between Candida albicans and zebrafish
+            during infection
+  JOURNAL   BMC Syst Biol 8 Suppl 5, S6 (2014)
+   PUBMED   25603810
+REFERENCE   5  (bases 1 to 716)
+  AUTHORS   Howe K, Clark MD, Torroja CF, Torrance J, Berthelot C, Muffato M,
+            Collins JE, Humphray S, McLaren K, Matthews L, McLaren S, Sealy I,
+            Caccamo M, Churcher C, Scott C, Barrett JC, Koch R, Rauch GJ, White
+            S, Chow W, Kilian B, Quintais LT, Guerra-Assuncao JA, Zhou Y, Gu Y,
+            Yen J, Vogel JH, Eyre T, Redmond S, Banerjee R, Chi J, Fu B,
+            Langley E, Maguire SF, Laird GK, Lloyd D, Kenyon E, Donaldson S,
+            Sehra H, Almeida-King J, Loveland J, Trevanion S, Jones M, Quail M,
+            Willey D, Hunt A, Burton J, Sims S, McLay K, Plumb B, Davis J, Clee
+            C, Oliver K, Clark R, Riddle C, Elliot D, Threadgold G, Harden G,
+            Ware D, Begum S, Mortimore B, Kerry G, Heath P, Phillimore B,
+            Tracey A, Corby N, Dunn M, Johnson C, Wood J, Clark S, Pelan S,
+            Griffiths G, Smith M, Glithero R, Howden P, Barker N, Lloyd C,
+            Stevens C, Harley J, Holt K, Panagiotidis G, Lovell J, Beasley H,
+            Henderson C, Gordon D, Auger K, Wright D, Collins J, Raisen C, Dyer
+            L, Leung K, Robertson L, Ambridge K, Leongamornlert D, McGuire S,
+            Gilderthorp R, Griffiths C, Manthravadi D, Nichol S, Barker G,
+            Whitehead S, Kay M, Brown J, Murnane C, Gray E, Humphries M,
+            Sycamore N, Barker D, Saunders D, Wallis J, Babbage A, Hammond S,
+            Mashreghi-Mohammadi M, Barr L, Martin S, Wray P, Ellington A,
+            Matthews N, Ellwood M, Woodmansey R, Clark G, Cooper J, Tromans A,
+            Grafham D, Skuce C, Pandian R, Andrews R, Harrison E, Kimberley A,
+            Garnett J, Fosker N, Hall R, Garner P, Kelly D, Bird C, Palmer S,
+            Gehring I, Berger A, Dooley CM, Ersan-Urun Z, Eser C, Geiger H,
+            Geisler M, Karotki L, Kirn A, Konantz J, Konantz M, Oberlander M,
+            Rudolph-Geiger S, Teucke M, Lanz C, Raddatz G, Osoegawa K, Zhu B,
+            Rapp A, Widaa S, Langford C, Yang F, Schuster SC, Carter NP, Harrow
+            J, Ning Z, Herrero J, Searle SM, Enright A, Geisler R, Plasterk RH,
+            Lee C, Westerfield M, de Jong PJ, Zon LI, Postlethwait JH,
+            Nusslein-Volhard C, Hubbard TJ, Roest Crollius H, Rogers J and
+            Stemple DL.
+  TITLE     The zebrafish reference genome sequence and its relationship to the
+            human genome
+  JOURNAL   Nature 496 (7446), 498-503 (2013)
+   PUBMED   23594743
+  REMARK    Erratum:[Nature. 2014 Jan 9;505(7482):248. Cooper, James [corrected
+            to Cooper, James D]; Eliott, David [corrected to Elliot, David];
+            Mortimer, Beverly [corrected to Mortimore, Beverley]; Begum,
+            Sharmin [added]; Lloyd, Christine [added]; Lanz, Christa [added];
+            Raddatz, Gunter [added]; Schuster, Ste]
+REFERENCE   6  (bases 1 to 716)
+  AUTHORS   Roesner A, Hankeln T and Burmester T.
+  TITLE     Hypoxia induces a complex response of globin expression in
+            zebrafish (Danio rerio)
+  JOURNAL   J. Exp. Biol. 209 (Pt 11), 2129-2137 (2006)
+   PUBMED   16709914
+REFERENCE   7  (bases 1 to 716)
+  AUTHORS   Vihtelic TS, Fadool JM, Gao J, Thornton KA, Hyde DR and Wistow G.
+  TITLE     Expressed sequence tag analysis of zebrafish eye tissues for
+            NEIBank
+  JOURNAL   Mol. Vis. 11, 1083-1100 (2005)
+   PUBMED   16379021
+  REMARK    Publication Status: Online-Only
+REFERENCE   8  (bases 1 to 716)
+  AUTHORS   Vidal G, Scheffler B, Michel A and D'Surney SJ.
+  TITLE     Genomic and phylogenic comparisons of the alpha-globin and
+            beta-globin intergenic sequences between zebra fish (Danio rerio)
+            and six closely related Cyprinindae species
+  JOURNAL   DNA Cell Biol. 23 (5), 325-334 (2004)
+   PUBMED   15169611
+REFERENCE   9  (bases 1 to 716)
+  AUTHORS   Gates MA, Kim L, Egan ES, Cardozo T, Sirotkin HI, Dougan ST,
+            Lashkari D, Abagyan R, Schier AF and Talbot WS.
+  TITLE     A genetic linkage map for zebrafish: comparative analysis and
+            localization of genes and expressed sequences
+  JOURNAL   Genome Res. 9 (4), 334-347 (1999)
+   PUBMED   10207156
+REFERENCE   10 (bases 1 to 716)
+  AUTHORS   Chan FY, Robinson J, Brownlie A, Shivdasani RA, Donovan A, Brugnara
+            C, Kim J, Lau BC, Witkowska HE and Zon LI.
+  TITLE     Characterization of adult alpha- and beta-globin genes in the
+            zebrafish
+  JOURNAL   Blood 89 (2), 688-700 (1997)
+   PUBMED   9002973
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL935210.8 and EH514264.1.
+            On or before Jul 31, 2018 this sequence version replaced
+            NM_001005403.1, NM_131020.2.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DN895391.1, EE322049.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01765705, SAMN06350656
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-62                AL935210.8         28284-28345
+            63-712              EH514264.1         16-665              c
+            713-716             AL935210.8         29195-29198
+FEATURES             Location/Qualifiers
+     source          1..716
+                     /organism="Danio rerio"
+                     /mol_type="mRNA"
+                     /strain="Tuebingen"
+                     /db_xref="taxon:7955"
+                     /chromosome="3"
+                     /map="3"
+     gene            1..716
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /note="hemoglobin, beta adult 1"
+                     /db_xref="GeneID:30216"
+                     /db_xref="ZFIN:ZDB-GENE-990415-18"
+     exon            1..244
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    141..143
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /note="upstream in-frame stop codon"
+     CDS             153..599
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /note="beta-1-globin; beta-A1-globin; hemoglobin beta-1
+                     chain; ba1 globin; ba2 globin; beta-2-globin;
+                     beta-A2-globin; hemoglobin beta-2 chain; hemoglobin
+                     subunit beta-2"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta-1"
+                     /protein_id="NP_571095.1"
+                     /db_xref="GeneID:30216"
+                     /db_xref="ZFIN:ZDB-GENE-990415-18"
+                     /translation="MVEWTDAERTAILGLWGKLNIDEIGPQALSRCLIVYPWTQRYFA
+                     TFGNLSSPAAIMGNPKVAAHGRTVMGGLERAIKNMDNVKNTYAALSVMHSEKLHVDPD
+                     NFRLLADCITVCAAMKFGQAGFNADVQEAWQKFLAVVVSALCRQYH"
+     exon            245..467
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /inference="alignment:Splign:2.1.0"
+     exon            468..716
+                     /gene="hbba1"
+                     /gene_synonym="ba1; ba2; ba2l; hbb; hbba1.2;
+                     si:bY187G17.2; si:dZ118J2.3; zgc:123164; zgc:136512"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 cgtcatctca gcaagattat ccaataagat tttgcatctt ttattgggcg gagacatcac
+       61 acatcaataa aatgcacccc ggtttctgaa tttctgctag tgattcctac tggactttaa
+      121 gcaagcacct aaggacatcc taaagcgtaa acatggttga gtggacagat gccgagcgca
+      181 cagccatcct tggcctgtgg ggaaagctca atatcgatga aatcggacct caggccctat
+      241 ccagatgtct gatcgtgtat ccctggactc agagatattt cgccacattc ggcaacctgt
+      301 caagccccgc tgcgatcatg ggtaacccca aagtggcagc tcatgggagg actgtgatgg
+      361 gaggtcttga gagagccatc aagaacatgg acaacgtcaa gaacacctat gccgccctca
+      421 gtgtgatgca ctctgagaaa ctgcatgtgg atcccgacaa cttcaggctt ctcgctgatt
+      481 gcatcaccgt ttgcgctgcc atgaagttcg gccaagctgg tttcaatgct gatgtccagg
+      541 aggcctggca gaagtttctg gctgtggtcg tttctgctct gtgcagacag taccactaga
+      601 gtctcatcgc caatgaacgt caggtgtttt ggagaaggtc acaccgcgcg gagatgttca
+      661 aacaaagatc taactctttt gcaacaagat caataaaata atgttaaaag catctc
+//
+
+LOCUS       NM_001314043             822 bp    mRNA    linear   MAM 25-SEP-2019
+DEFINITION  Oryctolagus cuniculus hemoglobin, beta (HBB2), transcript variant
+            1, mRNA.
+ACCESSION   NM_001314043
+VERSION     NM_001314043.1
+KEYWORDS    RefSeq.
+SOURCE      Oryctolagus cuniculus (rabbit)
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Oryctolagus.
+REFERENCE   1  (bases 1 to 822)
+  AUTHORS   Alenkina IV, Kumar A, Berkovsky AL and Oshtrakh MI.
+  TITLE     Comparative analysis of the heme iron electronic structure and
+            stereochemistry in tetrameric rabbit hemoglobin and monomeric
+            soybean leghemoglobin a using Mossbauer spectroscopy with a high
+            velocity resolution
+  JOURNAL   Spectrochim Acta A Mol Biomol Spectrosc 191, 547-557 (2018)
+   PUBMED   29100196
+  REMARK    GeneRIF: A comparative study of tetrameric rabbit hemoglobin and
+            monomeric soybean leghemoglobin a in the oxy- and deoxy-forms was
+            carried out using (57)Fe Mossbauer spectroscopy
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   Chittum HS, Lane WS, Carlson BA, Roller PP, Lung FD, Lee BJ and
+            Hatfield DL.
+  TITLE     Rabbit beta-globin is extended beyond its UGA stop codon by
+            multiple suppressions and translational reading gaps
+  JOURNAL   Biochemistry 37 (31), 10866-10870 (1998)
+   PUBMED   9692979
+REFERENCE   3  (bases 1 to 822)
+  AUTHORS   Hatfield D, Thorgeirsson SS, Copeland TD, Oroszlan S and Bustin M.
+  TITLE     Immunopurification of the suppressor tRNA dependent rabbit
+            beta-globin readthrough protein
+  JOURNAL   Biochemistry 27 (4), 1179-1183 (1988)
+   PUBMED   3365379
+REFERENCE   4  (bases 1 to 822)
+  AUTHORS   Geller,A.I. and Rich,A.
+  TITLE     A UGA termination suppression tRNATrp active in rabbit
+            reticulocytes
+  JOURNAL   Nature 283 (5742), 41-46 (1980)
+   PUBMED   7350525
+REFERENCE   5  (bases 1 to 822)
+  AUTHORS   Pavlakis,G.N., Lockard,R.E., Vamvakopoulos,N., Rieser,L.,
+            RajBhandary,U.L. and Vournakis,J.N.
+  TITLE     Secondary structure of mouse and rabbit alpha- and beta-globin
+            mRNAs: differential accessibility of alpha and beta initiator AUG
+            codons towards nucleases
+  JOURNAL   Cell 19 (1), 91-102 (1980)
+   PUBMED   7357610
+REFERENCE   6  (bases 1 to 822)
+  AUTHORS   van den Berg,J., van Ooyen,A., Mantei,N., Schambock,A.,
+            Grosveld,G., Flavell,R.A. and Weissmann,C.
+  TITLE     Comparison of cloned rabbit and mouse beta-globin genes showing
+            strong evolutionary divergence of two homologous pairs of introns
+  JOURNAL   Nature 276 (5683), 37-44 (1978)
+   PUBMED   264241
+REFERENCE   7  (bases 1 to 822)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Sequence analysis of the 3' non-coding regions of rabbit alpha- and
+            beta-globin messenger RNAs
+  JOURNAL   J. Mol. Biol. 107 (4), 491-525 (1976)
+   PUBMED   63556
+REFERENCE   8  (bases 1 to 822)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Nucleotide sequence from the coding region of rabbit beta-globin
+            messenger RNA
+  JOURNAL   Nucleic Acids Res. 3 (7), 1811-1821 (1976)
+   PUBMED   61580
+REFERENCE   9  (bases 1 to 822)
+  AUTHORS   Garrick,M.D., Hafner,R., Bricker,J. and Garrick,L.M.
+  TITLE     Genetic variation in the primary structure of the beta chain of
+            rabbit hemoglobin
+  JOURNAL   Ann. N. Y. Acad. Sci. 241 (0), 436-438 (1974)
+   PUBMED   4530669
+REFERENCE   10 (bases 1 to 822)
+  AUTHORS   Best,J.S., Flamm,U. and Braunitzer,G.
+  TITLE     Haemoglobins, XVII. The primary structure of the beta-chain of
+            rabbit haemoglobin
+  JOURNAL   Hoppe-Seyler's Z. Physiol. Chem. 350 (5), 563-580 (1969)
+   PUBMED   5789874
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from GBCI01005570.1 and EB379014.1.
+            
+            Summary: The adult hemoglobin is a heterotetramer of two alpha
+            chains and two beta chains, and functions in the transport of
+            oxygen from the lungs to various peripheral tissues. This gene is
+            expressed in red blood cells and encodes the beta polypeptide
+            chain. Studies have shown that two isoforms are produced from the
+            same mRNA by use of alternative in-frame translation termination
+            codons via a stop codon readthrough mechanism, both in rabbit
+            reticulocyte lysates and in intact reticulocytes. [provided by
+            RefSeq, Feb 2016].
+            
+            Transcript Variant: This transcript (1) encodes two isoforms, which
+            result from the use of alternative in-frame translation termination
+            codons. The shorter isoform (1) results from translation
+            termination at the upstream UGA stop codon (nt 707-709), while the
+            longer isoform (1x) results from UGA stop codon readthrough to the
+            downstream UAA termination codon (nt 776-778). This RefSeq
+            represents the longer, C-terminally extended isoform. As the UGA
+            stop codon has been reported to specify several alternative amino
+            acids (tryptophan, cysteine, arginine and serine), its location in
+            the longer isoform is denoted by an 'X'.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DN890520.1, M10843.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1876840, SAMN00013645
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            stop codon readthrough :: PMID: 9692979
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-579               GBCI01005570.1     1-579
+            580-822             EB379014.1         351-593
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Oryctolagus cuniculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9986"
+                     /chromosome="1"
+                     /map="1"
+     gene            1..822
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:100009084"
+     exon            1..357
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    224..226
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="upstream in-frame stop codon"
+     CDS             266..778
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="isoform 1x is encoded by transcript variant 1;
+                     hemoglobin subunit beta-1/2; beta globin; beta-1/2-globin;
+                     hemoglobin beta-1/2 chain"
+                     /codon_start=1
+                     /transl_except=(pos:707..709,aa:OTHER)
+                     /product="hemoglobin subunit beta-1/2 isoform 1x"
+                     /protein_id="NP_001300972.1"
+                     /db_xref="GeneID:100009084"
+                     /translation="MVHLSSEEKSAVTALWGKVNVEEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSSAHAVMSNPKVKAHGKKVLAAFSEGLNHLDNLKGTFAKLSELHCDKLHVDPE
+                     NFRLLGNVLVVVLSHHFGKEFTPQVQAAYQKVVAGVANALAHKYHXDLFPSAKNYGDI
+                     MKPLEHLTSG"
+     exon            358..580
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     exon            581..803
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    707..709
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="upstream translation termination codon, use of
+                     which results in the shorter isoform 1."
+     regulatory      777..782
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+     polyA_site      803
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+ORIGIN      
+        1 actgctggta tgggtctggg agatacatag aaggaaggct gagtctgtca gactcctaag
+       61 ccattgccat aactgccaag gacaggggtg ctgtcatcac ccagacctca ccctgcagag
+      121 ccacaccctg gtgttggcca atctacacac ggggtaggga ttacatagtt caggacttgg
+      181 gcataaaagg cagagcaggg cagctgctgc ttacacttgc ttttgacaca actgtgttta
+      241 cttgcaatcc cccaaaacag acagaatggt gcatctgtcc agtgaggaga agtctgcggt
+      301 cactgccctg tggggcaagg tgaatgtgga agaagttggt ggtgaggccc tgggcaggct
+      361 gctggttgtc tacccatgga cccagaggtt cttcgagtcc tttggggacc tgtcctctgc
+      421 acatgctgtt atgagcaatc ctaaggtgaa ggctcatggc aagaaggtgc tggctgcctt
+      481 cagtgagggt ctgaatcacc tggacaacct caaaggcacc tttgctaagc tgagtgaact
+      541 gcactgtgac aagctgcacg tggatcctga gaacttcagg ctcctgggca acgtgctggt
+      601 tgttgtgctg tctcatcatt ttggcaaaga attcactcct caggtgcagg ctgcctatca
+      661 gaaggtggtg gctggtgtgg ccaatgccct ggctcacaaa taccactgag atctttttcc
+      721 ctctgccaaa aattatgggg acatcatgaa gccccttgag catctgactt ctggctaata
+      781 aaggaaattt attttcattg caaaaaaaaa aaaaaaaaaa aa
+//
+
+LOCUS       NM_001082260             822 bp    mRNA    linear   MAM 25-SEP-2019
+DEFINITION  Oryctolagus cuniculus hemoglobin, beta (HBB2), transcript variant
+            1, mRNA.
+ACCESSION   NM_001082260
+VERSION     NM_001082260.3
+KEYWORDS    RefSeq.
+SOURCE      Oryctolagus cuniculus (rabbit)
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Lagomorpha;
+            Leporidae; Oryctolagus.
+REFERENCE   1  (bases 1 to 822)
+  AUTHORS   Alenkina IV, Kumar A, Berkovsky AL and Oshtrakh MI.
+  TITLE     Comparative analysis of the heme iron electronic structure and
+            stereochemistry in tetrameric rabbit hemoglobin and monomeric
+            soybean leghemoglobin a using Mossbauer spectroscopy with a high
+            velocity resolution
+  JOURNAL   Spectrochim Acta A Mol Biomol Spectrosc 191, 547-557 (2018)
+   PUBMED   29100196
+  REMARK    GeneRIF: A comparative study of tetrameric rabbit hemoglobin and
+            monomeric soybean leghemoglobin a in the oxy- and deoxy-forms was
+            carried out using (57)Fe Mossbauer spectroscopy
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   Chittum HS, Lane WS, Carlson BA, Roller PP, Lung FD, Lee BJ and
+            Hatfield DL.
+  TITLE     Rabbit beta-globin is extended beyond its UGA stop codon by
+            multiple suppressions and translational reading gaps
+  JOURNAL   Biochemistry 37 (31), 10866-10870 (1998)
+   PUBMED   9692979
+REFERENCE   3  (bases 1 to 822)
+  AUTHORS   Hatfield D, Thorgeirsson SS, Copeland TD, Oroszlan S and Bustin M.
+  TITLE     Immunopurification of the suppressor tRNA dependent rabbit
+            beta-globin readthrough protein
+  JOURNAL   Biochemistry 27 (4), 1179-1183 (1988)
+   PUBMED   3365379
+REFERENCE   4  (bases 1 to 822)
+  AUTHORS   Geller,A.I. and Rich,A.
+  TITLE     A UGA termination suppression tRNATrp active in rabbit
+            reticulocytes
+  JOURNAL   Nature 283 (5742), 41-46 (1980)
+   PUBMED   7350525
+REFERENCE   5  (bases 1 to 822)
+  AUTHORS   Pavlakis,G.N., Lockard,R.E., Vamvakopoulos,N., Rieser,L.,
+            RajBhandary,U.L. and Vournakis,J.N.
+  TITLE     Secondary structure of mouse and rabbit alpha- and beta-globin
+            mRNAs: differential accessibility of alpha and beta initiator AUG
+            codons towards nucleases
+  JOURNAL   Cell 19 (1), 91-102 (1980)
+   PUBMED   7357610
+REFERENCE   6  (bases 1 to 822)
+  AUTHORS   van den Berg,J., van Ooyen,A., Mantei,N., Schambock,A.,
+            Grosveld,G., Flavell,R.A. and Weissmann,C.
+  TITLE     Comparison of cloned rabbit and mouse beta-globin genes showing
+            strong evolutionary divergence of two homologous pairs of introns
+  JOURNAL   Nature 276 (5683), 37-44 (1978)
+   PUBMED   264241
+REFERENCE   7  (bases 1 to 822)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Sequence analysis of the 3' non-coding regions of rabbit alpha- and
+            beta-globin messenger RNAs
+  JOURNAL   J. Mol. Biol. 107 (4), 491-525 (1976)
+   PUBMED   63556
+REFERENCE   8  (bases 1 to 822)
+  AUTHORS   Proudfoot,N.J.
+  TITLE     Nucleotide sequence from the coding region of rabbit beta-globin
+            messenger RNA
+  JOURNAL   Nucleic Acids Res. 3 (7), 1811-1821 (1976)
+   PUBMED   61580
+REFERENCE   9  (bases 1 to 822)
+  AUTHORS   Garrick,M.D., Hafner,R., Bricker,J. and Garrick,L.M.
+  TITLE     Genetic variation in the primary structure of the beta chain of
+            rabbit hemoglobin
+  JOURNAL   Ann. N. Y. Acad. Sci. 241 (0), 436-438 (1974)
+   PUBMED   4530669
+REFERENCE   10 (bases 1 to 822)
+  AUTHORS   Best,J.S., Flamm,U. and Braunitzer,G.
+  TITLE     Haemoglobins, XVII. The primary structure of the beta-chain of
+            rabbit haemoglobin
+  JOURNAL   Hoppe-Seyler's Z. Physiol. Chem. 350 (5), 563-580 (1969)
+   PUBMED   5789874
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from GBCI01005570.1 and EB379014.1.
+            On Sep 29, 2015 this sequence version replaced NM_001082260.2.
+            
+            Summary: The adult hemoglobin is a heterotetramer of two alpha
+            chains and two beta chains, and functions in the transport of
+            oxygen from the lungs to various peripheral tissues. This gene is
+            expressed in red blood cells and encodes the beta polypeptide
+            chain. Studies have shown that two isoforms are produced from the
+            same mRNA by use of alternative in-frame translation termination
+            codons via a stop codon readthrough mechanism, both in rabbit
+            reticulocyte lysates and in intact reticulocytes. [provided by
+            RefSeq, Feb 2016].
+            
+            Transcript Variant: This transcript (1) encodes two isoforms, which
+            result from the use of alternative in-frame translation termination
+            codons. The shorter isoform (1) results from translation
+            termination at the upstream UGA stop codon (nt 707-709), while the
+            longer isoform (1x) results from UGA stop codon readthrough to the
+            downstream UAA termination codon (nt 776-778). This RefSeq
+            represents the shorter isoform.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DN890520.1, M10843.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1876840, SAMN00013645
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-579               GBCI01005570.1     1-579
+            580-822             EB379014.1         351-593
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Oryctolagus cuniculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9986"
+                     /chromosome="1"
+                     /map="1"
+     gene            1..822
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:100009084"
+     exon            1..357
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    224..226
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="upstream in-frame stop codon"
+     CDS             266..709
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     hemoglobin subunit beta-1/2; beta globin; beta-1/2-globin;
+                     hemoglobin beta-1/2 chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta-1/2 isoform 1"
+                     /protein_id="NP_001075729.2"
+                     /db_xref="GeneID:100009084"
+                     /translation="MVHLSSEEKSAVTALWGKVNVEEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSSAHAVMSNPKVKAHGKKVLAAFSEGLNHLDNLKGTFAKLSELHCDKLHVDPE
+                     NFRLLGNVLVVVLSHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     exon            358..580
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     exon            581..803
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    776..778
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+                     /note="alternative translation termination codon, use of
+                     which results in the longer, C-terminally extended isoform
+                     1x"
+     regulatory      777..782
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+     polyA_site      803
+                     /gene="HBB2"
+                     /gene_synonym="HBB; HBB1"
+ORIGIN      
+        1 actgctggta tgggtctggg agatacatag aaggaaggct gagtctgtca gactcctaag
+       61 ccattgccat aactgccaag gacaggggtg ctgtcatcac ccagacctca ccctgcagag
+      121 ccacaccctg gtgttggcca atctacacac ggggtaggga ttacatagtt caggacttgg
+      181 gcataaaagg cagagcaggg cagctgctgc ttacacttgc ttttgacaca actgtgttta
+      241 cttgcaatcc cccaaaacag acagaatggt gcatctgtcc agtgaggaga agtctgcggt
+      301 cactgccctg tggggcaagg tgaatgtgga agaagttggt ggtgaggccc tgggcaggct
+      361 gctggttgtc tacccatgga cccagaggtt cttcgagtcc tttggggacc tgtcctctgc
+      421 acatgctgtt atgagcaatc ctaaggtgaa ggctcatggc aagaaggtgc tggctgcctt
+      481 cagtgagggt ctgaatcacc tggacaacct caaaggcacc tttgctaagc tgagtgaact
+      541 gcactgtgac aagctgcacg tggatcctga gaacttcagg ctcctgggca acgtgctggt
+      601 tgttgtgctg tctcatcatt ttggcaaaga attcactcct caggtgcagg ctgcctatca
+      661 gaaggtggtg gctggtgtgg ccaatgccct ggctcacaaa taccactgag atctttttcc
+      721 ctctgccaaa aattatgggg acatcatgaa gccccttgag catctgactt ctggctaata
+      781 aaggaaattt attttcattg caaaaaaaaa aaaaaaaaaa aa
+//
+
+LOCUS       NM_001283367             604 bp    mRNA    linear   PRI 24-SEP-2019
+DEFINITION  Macaca fascicularis hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001283367 XM_005578915
+VERSION     NM_001283367.1
+KEYWORDS    RefSeq.
+SOURCE      Macaca fascicularis (crab-eating macaque)
+  ORGANISM  Macaca fascicularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 604)
+  AUTHORS   Yan G, Zhang G, Fang X, Zhang Y, Li C, Ling F, Cooper DN, Li Q, Li
+            Y, van Gool AJ, Du H, Chen J, Chen R, Zhang P, Huang Z, Thompson
+            JR, Meng Y, Bai Y, Wang J, Zhuo M, Wang T, Huang Y, Wei L, Li J,
+            Wang Z, Hu H, Yang P, Le L, Stenson PD, Li B, Liu X, Ball EV, An N,
+            Huang Q, Zhang Y, Fan W, Zhang X, Li Y, Wang W, Katze MG, Su B,
+            Nielsen R, Yang H, Wang J, Wang X and Wang J.
+  TITLE     Genome sequencing and comparison of two nonhuman primate animal
+            models, the cynomolgus and Chinese rhesus macaques
+  JOURNAL   Nat. Biotechnol. 29 (11), 1019-1023 (2011)
+   PUBMED   22002653
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 604)
+  AUTHORS   Wang HY, Chien HC, Osada N, Hashimoto K, Sugano S, Gojobori T, Chou
+            CK, Tsai SF, Wu CI and Shen CK.
+  TITLE     Rate of evolution in brain-expressed genes in humans and other
+            primates
+  JOURNAL   PLoS Biol. 5 (2), e13 (2007)
+   PUBMED   17194215
+REFERENCE   3  (bases 1 to 604)
+  AUTHORS   Francino MP and Ochman H.
+  TITLE     Strand symmetry around the beta-globin origin of replication in
+            primates
+  JOURNAL   Mol. Biol. Evol. 17 (3), 416-422 (2000)
+   PUBMED   10723742
+REFERENCE   4  (bases 1 to 604)
+  AUTHORS   Savatier,P., Trabuchet,G., Chebloune,Y., Faure,C., Verdier,G. and
+            Nigon,V.M.
+  TITLE     Nucleotide sequence of the beta-globin genes in gorilla and
+            macaque: the origin of nucleotide polymorphisms in human
+  JOURNAL   J. Mol. Evol. 24 (4), 309-318 (1987)
+   PUBMED   3110424
+REFERENCE   5  (bases 1 to 604)
+  AUTHORS   Wade,P.T., Barnicot,N.A. and Huehns,E.R.
+  TITLE     Structural studies on the major and minor haemoglobin of the monkey
+            Macaca irus
+  JOURNAL   Biochim. Biophys. Acta 221 (3), 450-466 (1970)
+   PUBMED   5499429
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AB171600.1.
+            On Sep 25, 2013 this sequence version replaced XM_005578915.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AB171600.1, DC629780.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMD00006228, SAMN00622000
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..604
+                     /organism="Macaca fascicularis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9541"
+                     /chromosome="14"
+                     /map="14"
+     gene            1..604
+                     /gene="HBB"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:101926697"
+     exon            1..142
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    12..14
+                     /gene="HBB"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /note="Beta-globin; Hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001270296.1"
+                     /db_xref="GeneID:101926697"
+                     /translation="MVHLTPEEKNAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSSPDAVMGNPKVKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPE
+                     NFKLLGNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     misc_feature    54..56
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylvaline. {ECO:0000250|UniProtKB:P02086};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     acetylation site"
+     misc_feature    87..89
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     phosphorylation site"
+     misc_feature    183..185
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     phosphorylation site"
+     misc_feature    228..230
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     acetylation site"
+     misc_feature    297..299
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     acetylation site"
+     misc_feature    330..332
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     nitrosylation site"
+     misc_feature    483..485
+                     /gene="HBB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000250|UniProtKB:P68871};
+                     propagated from UniProtKB/Swiss-Prot (P68223.2);
+                     acetylation site"
+     exon            143..365
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.0.8"
+     exon            366..604
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 acacttgctt ctgacacaac tgtgttcacg agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagaat gccgtcacca ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc tctcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgcttggt gcctttagtg atggcctgaa tcacctggac aacctcaagg
+      301 gtacctttgc ccagctcagt gagctgcact gtgacaagct gcatgtggat cctgagaact
+      361 tcaagctcct gggcaacgtg ctggtgtgtg tgctggccca tcactttggc aaagaattca
+      421 ccccgcaagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtacca ctaagctcac tttcttgctg tccaatttct accaaaggtt cctttgttcc
+      541 caaagtccaa ctactgaact gggggatatt atgaagggcc ttgaggatct ggattctgcc
+      601 taat
+//
+
+LOCUS       NM_001164018             444 bp    mRNA    linear   MAM 21-SEP-2019
+DEFINITION  Equus caballus hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001164018 XM_001504189
+VERSION     NM_001164018.1
+KEYWORDS    RefSeq.
+SOURCE      Equus caballus (horse)
+  ORGANISM  Equus caballus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Perissodactyla; Equidae; Equus.
+REFERENCE   1  (bases 1 to 444)
+  AUTHORS   Dajnowicz S, Seaver S, Hanson BL, Fisher SZ, Langan P, Kovalevsky
+            AY and Mueser TC.
+  TITLE     Visualizing the Bohr effect in hemoglobin: neutron structure of
+            equine cyanomethemoglobin in the R state and comparison with human
+            deoxyhemoglobin in the T state
+  JOURNAL   Acta Crystallogr D Struct Biol 72 (Pt 7), 892-903 (2016)
+   PUBMED   27377386
+  REMARK    GeneRIF: This study presents comparison of two neutron structures
+            of hemoglobins, human deoxyhemoglobin (T state) and equine
+            cyanomethemoglobin (R state) and offers a direct observation of
+            histidine residues that are likely to contribute to the Bohr
+            effect.
+REFERENCE   2  (bases 1 to 444)
+  AUTHORS   Hestand MS, Kalbfleisch TS, Coleman SJ, Zeng Z, Liu J, Orlando L
+            and MacLeod JN.
+  TITLE     Annotation of the Protein Coding Regions of the Equine Genome
+  JOURNAL   PLoS ONE 10 (6), e0124375 (2015)
+   PUBMED   26107351
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 444)
+  AUTHORS   Kovalevsky AY, Fisher SZ, Seaver S, Mustyakimov M, Sukumar N,
+            Langan P, Mueser TC and Hanson BL.
+  TITLE     Preliminary neutron and X-ray crystallographic studies of equine
+            cyanomethemoglobin
+  JOURNAL   Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 66 (Pt 4),
+            474-477 (2010)
+   PUBMED   20383026
+  REMARK    GeneRIF: cyanomethemoglobin is in the R state and preliminary
+            room-temperature electron and neutron scattering density maps
+            clearly show the protonation states of potential Bohr groups.
+REFERENCE   4  (bases 1 to 444)
+  AUTHORS   Matsuda,G., Maita,T., Braunitzer,G. and Schrank,B.
+  TITLE     [Hemoglobins, XXXIII. Note on the Sequence of the hemoglobins of
+            the horse (author's transl)]
+  JOURNAL   Hoppe-Seyler's Z. Physiol. Chem. 361 (7), 1107-1116 (1980)
+   PUBMED   7409745
+REFERENCE   5  (bases 1 to 444)
+  AUTHORS   Ladner,R.C., Heidner,E.J. and Perutz,M.F.
+  TITLE     The structure of horse methaemoglobin at 2-0 A resolution
+  JOURNAL   J. Mol. Biol. 114 (3), 385-414 (1977)
+   PUBMED   561852
+REFERENCE   6  (bases 1 to 444)
+  AUTHORS   Smith,D.B. and Chung,W.P.
+  TITLE     Amide groups of some tryptic peptides from the beta-chain of horse
+            hemoglobin
+  JOURNAL   Can. J. Biochem. 48 (10), 1160-1164 (1970)
+   PUBMED   5529282
+REFERENCE   7  (bases 1 to 444)
+  AUTHORS   Smith,D.B.
+  TITLE     Amino acid sequences of some tryptic peptides from the beta-chain
+            of horse hemoglobin
+  JOURNAL   Can. J. Biochem. 46 (8), 825-843 (1968)
+   PUBMED   4876811
+REFERENCE   8  (bases 1 to 444)
+  AUTHORS   Perutz,M.F., Muirhead,H., Cox,J.M. and Goaman,L.C.
+  TITLE     Three-dimensional Fourier synthesis of horse oxyhaemoglobin at 2.8
+            A resolution: the atomic model
+  JOURNAL   Nature 219 (5150), 131-139 (1968)
+   PUBMED   5659637
+REFERENCE   9  (bases 1 to 444)
+  AUTHORS   Perutz,M.F., Miurhead,H., Cox,J.M., Goaman,L.C., Mathews,F.S.,
+            McGandy,E.L. and Webb,L.E.
+  TITLE     Three-dimensional Fourier synthesis of horse oxyhaemoglobin at 2.8
+            A resolution: (1) x-ray analysis
+  JOURNAL   Nature 219 (5149), 29-32 (1968)
+   PUBMED   5659617
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            PJAA01000008.1.
+            On Aug 10, 2009 this sequence version replaced XM_001504189.1.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: GDHK01065311.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2743238, SAMN05591754
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-92                PJAA01000008.1     76115015-76115106   c
+            93-315              PJAA01000008.1     76114664-76114886   c
+            316-444             PJAA01000008.1     76113910-76114038   c
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Equus caballus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9796"
+                     /chromosome="7"
+                     /map="7"
+     gene            1..444
+                     /gene="HBB"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:100054109"
+     CDS             1..444
+                     /gene="HBB"
+                     /note="beta-globin; hemoglobin beta chain;
+                     beta-hemoglobin"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001157490.1"
+                     /db_xref="GeneID:100054109"
+                     /translation="MVQLSGEEKAAVLALWDKVNEEEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSNPGAVMGNPKVKAHGKKVLHSFGEGVHHLDNLKGTFAALSELHCDKLHVDPE
+                     NFRLLGNVLVVVLARHFGKDFTPELQASYQKVVAGVANALAHKYH"
+     exon            1..92
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            93..315
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            316..444
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atggtgcaac tgagtggtga agagaaggca gctgtcttgg ccctgtggga caaggtgaat
+       61 gaggaagaag ttggtggtga agccctgggc aggctgctgg ttgtctaccc atggactcag
+      121 aggttctttg actcctttgg ggatctgtcc aatcctggtg ctgtgatggg caaccccaag
+      181 gtgaaggccc acggcaagaa agtgctacac tcctttggtg agggcgtgca tcatcttgac
+      241 aacctcaagg gcacctttgc tgcgctgagt gagctgcact gtgacaagct gcacgtggat
+      301 cctgagaact tcaggctcct gggcaacgtg ctggttgttg tgctggctcg ccactttggc
+      361 aaggatttca ccccagagtt gcaggcttcc tatcaaaagg tggtggctgg tgtggccaat
+      421 gcactggccc acaaatacca ctga
+//
+
+LOCUS       NM_001123666             747 bp    mRNA    linear   VRT 22-SEP-2019
+DEFINITION  Salmo salar beta globin (LOC100136576), mRNA.
+ACCESSION   NM_001123666
+VERSION     NM_001123666.1
+KEYWORDS    RefSeq.
+SOURCE      Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 747)
+  AUTHORS   Leong JS, Jantzen SG, von Schalburg KR, Cooper GA, Messmer AM, Liao
+            NY, Munro S, Moore R, Holt RA, Jones SJ, Davidson WS and Koop BF.
+  TITLE     Salmo salar and Esox lucius full-length cDNA sequences reveal
+            changes in evolutionary pressures on a post-tetraploidization
+            genome
+  JOURNAL   BMC Genomics 11, 279 (2010)
+   PUBMED   20433749
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 747)
+  AUTHORS   McMorrow T, Wagner A, Deryckere F and Gannon F.
+  TITLE     Structural organization and sequence analysis of the globin locus
+            in Atlantic salmon
+  JOURNAL   DNA Cell Biol. 15 (5), 407-414 (1996)
+   PUBMED   8924215
+REFERENCE   3  (bases 1 to 747)
+  AUTHORS   Wagner A, Deryckere F, McMorrow T and Gannon F.
+  TITLE     Tail-to-tail orientation of the Atlantic salmon alpha- and
+            beta-globin genes
+  JOURNAL   J. Mol. Evol. 38 (1), 28-35 (1994)
+   PUBMED   8151712
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X69958.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X69958.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00779696, SAMN02863984
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..747
+                     /organism="Salmo salar"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8030"
+                     /chromosome="ssa03"
+                     /map="ssa03"
+     gene            1..747
+                     /gene="LOC100136576"
+                     /gene_synonym="hbb"
+                     /note="beta globin"
+                     /db_xref="GeneID:100136576"
+     CDS             40..486
+                     /gene="LOC100136576"
+                     /gene_synonym="hbb"
+                     /note="hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001117138.1"
+                     /db_xref="GeneID:100136576"
+                     /translation="MVDWTDAERSAIVGLWGKISVDEIGPQALARLLIVSPWTQRHFS
+                     TFGNLSTPAAIMGNPAVAKHGKTVMHGLDRAVQNLDDIKNAYTALSVMHSEKLHVDPD
+                     NFRLLADCITVCVAAKLGPTVFSADIQEAFQKFLAVVVSALGRQYH"
+ORIGIN      
+        1 tttgcaagta ctaaaggaaa tcaacaaaca aacgtcaaca tggtcgactg gacagatgct
+       61 gagcgcagcg ccatcgtagg cctgtgggga aagatcagcg tggatgagat cggaccccag
+      121 gccctggcca gacttctgat cgtgtctcca tggactcaga ggcactttag caccttcggc
+      181 aacctgtcca cacccgctgc catcatgggt aaccccgccg tggccaagca cggaaagacc
+      241 gtgatgcacg gactggacag agctgtgcag aacctggatg acatcaaaaa cgcctatact
+      301 gccctgagtg tgatgcactc cgagaaactg cacgtggatc ccgacaactt caggctcctc
+      361 gccgactgca tcaccgtgtg cgtggcagcc aagctcggtc ccaccgtttt cagtgctgat
+      421 attcaggaag ccttccagaa gttcctggct gtcgttgtgt ccgctcttgg cagacagtac
+      481 cactagagca tcactcgaca gcatcaatat ggaagagaga tgacactcca atccagtctg
+      541 ttaggctgga agctgtgcca tagctacaca tttgaaaaaa attaaatcta tttaaaagcc
+      601 gtttatcttt ttgaagtgtt gtgttttatg gaaaacgttc ttctgcaatt gtactgatgg
+      661 cacatggttt ctacactcta aaaattaggg aatgtgaatg aaaaaaactg ttttgatgat
+      721 ggttttcata aacatacttt gtccatg
+//
+
+LOCUS       NM_001329918             616 bp    mRNA    linear   PRI 05-MAY-2019
+DEFINITION  Chlorocebus sabaeus hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_001329918 XM_008019892
+VERSION     NM_001329918.1
+KEYWORDS    RefSeq.
+SOURCE      Chlorocebus sabaeus (green monkey)
+  ORGANISM  Chlorocebus sabaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus.
+REFERENCE   1  (bases 1 to 616)
+  AUTHORS   Tchitchek N, Jacquelin B, Wincker P, Dossat C, Silva CD,
+            Weissenbach J, Blancher A, Muller-Trutwin M and Benecke A.
+  TITLE     Expression sequence tag library derived from peripheral blood
+            mononuclear cells of the chlorocebus sabaeus
+  JOURNAL   BMC Genomics 13, 279 (2012)
+   PUBMED   22726727
+  REMARK    Publication Status: Online-Only
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            JK121402.1.
+            On Aug 7, 2016 this sequence version replaced XM_008019892.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: JK121402.1, JK125142.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02230591, SAMN02356306
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-616               JK121402.1         1-616
+FEATURES             Location/Qualifiers
+     source          1..616
+                     /organism="Chlorocebus sabaeus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:60711"
+                     /chromosome="1"
+                     /map="1"
+     gene            1..616
+                     /gene="HBB"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:103247901"
+     exon            1..132
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             41..484
+                     /gene="HBB"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001316847.1"
+                     /db_xref="GeneID:103247901"
+                     /translation="MVHLTPEEKTAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSSPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFAQLSELHCDKLHVDPE
+                     NFKLLGNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     exon            133..355
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            356..616
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gcttctgaca caactgtgtt cactagcaac ctcagacacc atggtgcatc tgactcctga
+       61 ggagaagact gccgttacca ccctgtgggg caaggtgaac gtggatgaag ttggtggtga
+      121 ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg agtcctttgg
+      181 ggatctgtcc tctcctgatg ctgttatggg caaccctaag gtgaaggctc atggcaagaa
+      241 agtgcttggt gcctttagtg atggcctggc tcacctggac aacctcaagg gcacctttgc
+      301 ccagctgagt gagctgcact gtgacaagct gcatgtggat cctgagaact tcaagctcct
+      361 gggcaacgtg ctggtgtgtg tgctggccca tcactttggc aaagaattca ccccgcaagt
+      421 gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc acaagtacca
+      481 ctaagttcac tttcttgctg tccaatttct accaaaggtt cctttgttcc caaagtccaa
+      541 ctactgaact gggggatatt atgaagggcc ttgaggatct ggattctgcc taataaaaaa
+      601 catttatttt cattgc
+//
+
+LOCUS       NM_001304883             645 bp    mRNA    linear   MAM 05-MAY-2019
+DEFINITION  Ailuropoda melanoleuca hemoglobin subunit beta-like (HBB), mRNA.
+ACCESSION   NM_001304883 XM_011233436
+VERSION     NM_001304883.1
+KEYWORDS    RefSeq.
+SOURCE      Ailuropoda melanoleuca (giant panda)
+  ORGANISM  Ailuropoda melanoleuca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+            Ailuropoda.
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AY753985.1.
+            On Feb 11, 2015 this sequence version replaced XM_011233436.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY753985.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02777951, SAMN02777952
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="Ailuropoda melanoleuca"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9646"
+     gene            1..645
+                     /gene="HBB"
+                     /note="hemoglobin subunit beta-like"
+                     /db_xref="GeneID:100499573"
+     exon            1..142
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /note="hemoglobin, beta"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta-like"
+                     /protein_id="NP_001291812.1"
+                     /db_xref="GeneID:100499573"
+                     /translation="MVHLTGEEKAAVTGLWSKVNVDEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSTPDAVMNNPKVKAHGKKVLNSFSEGLKNLDNLKGTFAKLSELHCDKLHVDPE
+                     NFKLLSNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     exon            143..365
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..617
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atacttgctt ctgacacaac tgtgttcact agcaaccaca aagagacacc atggtgcatc
+       61 tgactggtga ggagaaggct gccgtcaccg gcctgtggag caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg ttgtctaccc ctggactcag aggttctttg
+      181 actcctttgg ggatctgtcc actcctgatg ctgttatgaa caaccccaag gtcaaggccc
+      241 atggcaagaa ggtgctgaac tcctttagtg aaggcctgaa gaatctggac aacctcaagg
+      301 gtacctttgc taagctgagc gagctgcact gtgacaagct gcacgtggat cccgagaact
+      361 tcaagctcct gagcaacgtg ctggtgtgtg tgctggctca ccactttggc aaggagttca
+      421 cccctcaggt gcaggctgcc tatcagaagg tggtggctgg tgtggccaat gccctggccc
+      481 acaagtacca ctgagttccc ttcctgcttt ccaggaaaag tcccctggtc cctagaaccc
+      541 aacacctgaa cttggggaaa ttgtgaagtg ctttgagcac ctggctcctg cctaataaag
+      601 aacacttctt ttcattggaa aaaaaaaaaa aaaaaaaaaa aaaaa
+//
+
+LOCUS       NM_001279263             626 bp    mRNA    linear   MAM 05-MAY-2019
+DEFINITION  Condylura cristata hemoglobin, beta (HBB), mRNA.
+ACCESSION   NM_001279263 XM_004683133 XM_004683134
+VERSION     NM_001279263.1
+KEYWORDS    RefSeq.
+SOURCE      Condylura cristata (star-nosed mole)
+  ORGANISM  Condylura cristata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Condylura.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Signore AV, Stetefeld J, Weber RE and Campbell KL.
+  TITLE     Origin and mechanism of thermal insensitivity in mole hemoglobins:
+            a test of the 'additional' chloride binding site hypothesis
+  JOURNAL   J. Exp. Biol. 215 (Pt 3), 518-525 (2012)
+   PUBMED   22246260
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from JN208866.1.
+            On or before Jul 19, 2013 this sequence version replaced
+            XM_004683133.1, XM_004683134.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: JN208866.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02183193, SAMN02183194
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Condylura cristata"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:143302"
+     gene            1..626
+                     /gene="HBB"
+                     /gene_synonym="HBD1; HBD2"
+                     /note="hemoglobin, beta"
+                     /db_xref="GeneID:101629987"
+     exon            1..163
+                     /gene="HBB"
+                     /gene_synonym="HBD1; HBD2"
+                     /inference="alignment:Splign:2.0.8"
+     CDS             72..515
+                     /gene="HBB"
+                     /gene_synonym="HBD1; HBD2"
+                     /note="hemoglobin subunit delta 1; hemoglobin subunit
+                     delta 2"
+                     /codon_start=1
+                     /product="hemoglobin, beta"
+                     /protein_id="NP_001266192.1"
+                     /db_xref="GeneID:101629987"
+                     /translation="MVHLSGEEKGLVTSMWGKVNVDEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSSASAIMGNAKVKAHGKKVAHSITDGIKNLDNLKGTYAKLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLARNLGKEFTPQAQAAFQKVVLGVATALAHKYH"
+     exon            164..386
+                     /gene="HBB"
+                     /gene_synonym="HBD1; HBD2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            387..626
+                     /gene="HBB"
+                     /gene_synonym="HBD1; HBD2"
+                     /inference="alignment:Splign:2.0.8"
+ORIGIN      
+        1 gaaagaccaa ctgctgctca tacttgcttc tgaagctacc gtgttcacga gcaactacac
+       61 aaacagacac catggtgcat ctgtctggtg aggaaaaggg cctcgtcacc tccatgtggg
+      121 gcaaggtgaa cgtggatgaa gttggtggtg aggccctggg caggctgctg gttgtctacc
+      181 cctggaccca gaggttcttt gacagctttg gtgacctgtc ctctgcctct gccattatgg
+      241 gcaatgccaa ggtgaaggcc catggcaaga aggtggccca ctccatcact gatggcatca
+      301 aaaacctgga caacctcaaa ggcacctatg ccaagctgag tgagctgcac tgtgacaagc
+      361 tgcacgtgga ccctgagaac ttcaggctgc tgggcaacgt gctggtgtgt gtgctggctc
+      421 gcaaccttgg caaggaattc accccccagg ctcaggctgc cttccagaag gtggtgcttg
+      481 gtgtggccac tgccctggct cacaagtacc attgagatct taaactcttc ctggaggcca
+      541 ttggaacaca ctatttccct atgttctgtc ctctcagctt ggggaaataa tgcccgcctt
+      601 cagggcatgt tttctgccta ataaag
+//
+
+LOCUS       NM_001201019             607 bp    mRNA    linear   VRT 05-MAY-2019
+DEFINITION  Ictalurus punctatus hemoglobin subunit beta (hbb), mRNA.
+ACCESSION   NM_001201019
+VERSION     NM_001201019.1
+KEYWORDS    RefSeq.
+SOURCE      Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 607)
+  AUTHORS   Chen F, Lee Y, Jiang Y, Wang S, Peatman E, Abernathy J, Liu H, Liu
+            S, Kucuktas H, Ke C and Liu Z.
+  TITLE     Identification and characterization of full-length cDNAs in channel
+            catfish (Ictalurus punctatus) and blue catfish (Ictalurus furcatus)
+  JOURNAL   PLoS ONE 5 (7), e11546 (2010)
+   PUBMED   20634964
+  REMARK    Publication Status: Online-Only
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from GU589394.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: GU589394.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00774075, SAMN04498729
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..607
+                     /organism="Ictalurus punctatus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7998"
+                     /chromosome="1"
+                     /map="1"
+     gene            1..607
+                     /gene="hbb"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:100528749"
+     CDS             37..480
+                     /gene="hbb"
+                     /note="hemoglobin beta 4; hemoglobin beta 5"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001187948.1"
+                     /db_xref="GeneID:100528749"
+                     /translation="MVVWTDFERATIQDVFSKIDYESVGHQALSRCLVVYPWTQRYFG
+                     SFGNLYNAAAIIGNPKVAAHGLVVVRGLEKAAKNMDNIKAIYADLSVLHSEKLHVDPD
+                     NFKLLADCITIVIASVLGASFTAEVQAALQKFLAVVVSALGKQYQ"
+ORIGIN      
+        1 cccacgcgtc cgatagaaac cccaaaaagc agcaacatgg ttgtttggac agacttcgag
+       61 cgcgctacca tccaggacgt cttttccaag atcgactacg agtcagttgg tcaccaggca
+      121 ctgtcaaggt gtctcgtcgt ttacccatgg acccagaggt acttcggtag ctttggaaac
+      181 ttgtacaacg ccgctgccat cattggaaac cccaaggttg ctgcccacgg cttggtagta
+      241 gtacgtggtc tggagaaagc agcgaagaac atggacaaca ttaaggccat ttacgccgac
+      301 ctgagtgtgc tgcactctga gaaactgcac gtggatcccg ataacttcaa gctgctggct
+      361 gactgcatca ccatcgtcat tgcctctgtc ctgggtgcca gcttcacagc cgaagtacag
+      421 gcagctctgc agaagttcct ggctgttgtt gtctctgcac tcggaaagca gtaccaataa
+      481 atgctgaagt gatttgacgg ccagagagga ccatcaaacg ttttcagttc taaaaacgac
+      541 catgtactac ttgtgaaagc aagtatttaa ataaaattac caatacacaa aaaaaaaaaa
+      601 aaaaaaa
+//
+
+LOCUS       NM_001164428             471 bp    mRNA    linear   PRI 28-APR-2019
+DEFINITION  Macaca mulatta hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_001164428 XM_001111709
+VERSION     NM_001164428.1
+KEYWORDS    RefSeq.
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 471)
+  AUTHORS   Bosinger SE, Li Q, Gordon SN, Klatt NR, Duan L, Xu L, Francella N,
+            Sidahmed A, Smith AJ, Cramer EM, Zeng M, Masopust D, Carlis JV, Ran
+            L, Vanderford TH, Paiardini M, Isett RB, Baldwin DA, Else JG,
+            Staprans SI, Silvestri G, Haase AT and Kelvin DJ.
+  TITLE     Global genomic analysis reveals rapid control of a robust innate
+            response in SIV-infected sooty mangabeys
+  JOURNAL   J. Clin. Invest. 119 (12), 3556-3572 (2009)
+   PUBMED   19959874
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from GQ205391.1.
+            On Aug 27, 2009 this sequence version replaced XM_001111709.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: GQ205391.1, CB555678.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA27163918, SAMEA4688315
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9544"
+                     /chromosome="14"
+                     /map="14"
+     gene            1..471
+                     /gene="HBB"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:715559"
+     exon            1..101
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             10..453
+                     /gene="HBB"
+                     /note="globin, beta; hemoglobin, beta; Beta-globin;
+                     Hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_001157900.1"
+                     /db_xref="GeneID:715559"
+                     /translation="MVHLTPEEKTAVTTLWGKVNVDEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSSPDAVMGNPKVKAHGKKVLGAFSDGLNHLDNLKGTFAQLSELHCDKLHVDPE
+                     NFKLLGNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     exon            102..324
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            325..471
+                     /gene="HBB"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 acagacacca tggtgcatct gactcctgag gagaagactg ccgttaccac cctgtggggc
+       61 aaggtgaacg tggatgaagt tggtggtgag gccctgggca ggctgctggt ggtctaccct
+      121 tggacccaga ggttctttga ttcctttggg gatctgtcct ctcctgatgc tgttatgggc
+      181 aaccctaagg tgaaggctca tggcaagaaa gtgcttggtg cctttagtga tggcctgaat
+      241 cacctggaca acctcaaggg cacctttgcc cagctcagtg agctgcactg tgacaagctg
+      301 catgtggatc ctgagaactt caagctcctg ggcaacgtgc tggtgtgtgt gctggcccat
+      361 cactttggca aagaattcac cccgcaagtg caggctgcct atcagaaagt ggtggctggt
+      421 gtggctaatg ccctggccca caagtaccac taagctcact ttcttgctgt c
+//
+
+LOCUS       NM_001304885             644 bp    mRNA    linear   MAM 16-DEC-2018
+DEFINITION  Ailuropoda melanoleuca hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_001304885 XM_011233435
+VERSION     NM_001304885.1
+KEYWORDS    RefSeq.
+SOURCE      Ailuropoda melanoleuca (giant panda)
+  ORGANISM  Ailuropoda melanoleuca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Ursidae;
+            Ailuropoda.
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AY753986.1.
+            On Feb 11, 2015 this sequence version replaced XM_011233435.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY753986.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN02777951, SAMN02777952
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /organism="Ailuropoda melanoleuca"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9646"
+     gene            1..644
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /note="hemoglobin subunit beta"
+                     /db_xref="GeneID:100499574"
+     exon            1..142
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /note="upstream in-frame stop codon"
+     CDS             51..494
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /note="Delta-globin; Hemoglobin delta chain; hemoglobin,
+                     delta; Beta-globin; Hemoglobin beta chain"
+                     /codon_start=1
+                     /product="hemoglobin subunit delta"
+                     /protein_id="NP_001291814.1"
+                     /db_xref="GeneID:100499574"
+                     /translation="MVHLTGEEKAAVTGLWSKVNVDEVGGEALGRLLVVYPWTQRFFD
+                     SFGDLSTPDAVMNNPKVKAHGKKVLNSFSEGLKNLDNLKGTFVKLSELHCDKLHVDPE
+                     NFKLLGNVLVCVLAHHFGKEFTPQVQAAYQKVVAGVANALAHKYH"
+     exon            143..365
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..621
+                     /gene="HBB"
+                     /gene_synonym="HBD"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 atacttgctt ctgacacaac tgtgttcact agcaaccaca aagagacacc atggtgcatc
+       61 tgactggtga ggagaaggct gccgtcaccg gcctgtggag caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg ttgtctaccc ctggactcag aggttctttg
+      181 actcctttgg ggacctgtcc actcctgatg ctgttatgaa caaccccaag gtcaaggccc
+      241 atggcaagaa ggtgctgaac tcctttagtg aaggcctgaa gaatctggac aacctcaagg
+      301 gcacctttgt taagctgagc gagctgcact gtgacaagct gcacgtggat cccgagaact
+      361 tcaagctcct gggcaacgtg ctggtgtgtg tgctggctca ccacttcggc aaagagttca
+      421 cccctcaggt gcaggctgcc tatcagaagg tggtggctgg tgtggccaac gccctggccc
+      481 acaagtacca ctgagctcct ggcctgtttc ctggtgatgc ctggaagacc ctgttcccct
+      541 aaattctatc ttctgaactg ggggaaataa tgtccaccat caagggtatg gtttctgtct
+      601 aataaagaac cttcagctca aaaaaaaaaa aaaaaaaaaa aaaa
+//
+

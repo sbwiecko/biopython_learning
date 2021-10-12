@@ -1,0 +1,84 @@
+Title	Journal Name	DOI		
+Immunization expands HIV-1 V3-glycan specific B-cells in mice and macaques	Nature	10.1038/s41586-019-1250-z		convert
+Growth dynamics in naturally progressing chronic lymphocytic leukaemia	Nature	10.1038/s41586-019-1252-x		
+Structural basis for ligand recognition at the human MT1 melatonin receptor	Nature	10.1038/s41586-019-1141-3		
+Controlling orthogonal ribosome subunit interactions enables evolution of new function	Nature	10.1038/s41586-018-0773-z		
+Structure of the Alternative Complex III in a supercomplex with cytochrome oxidase	Nature	10.1038/s41586-018-0061-y		
+Identification of unique neoantigen qualities in long term pancreatic cancer survivors.	Nature	10.1038/nature24462		
+Balancing selection shapes density-dependent foraging behavior	Nature	10.1038/nature19848		
+Real-time, portable genome sequencing for Ebola surveillance	Nature	10.1038/nature16996		
+Conserved epigenomic signals in mice and humans reveal immune basis of Alzheimer’s disease	Nature	10.1038/nature14252		
+Antifungal drug resistance evokedvia RNAi-dependent epimutations	Nature	10.1038/nature13575		
+Coordinated regulation of protein synthesis and degradation by mTORC1	Nature	10.1038/nature13492		
+The role of mentorship in protégé performance	Nature	10.1038/nature09040		
+Ago HITS-CLIP decodes miRNA-mRNA interaction maps	Nature	10.1038/nature08170		
+Predicting HLA class II antigen presentation through integrated deep learning	Nature biotechnology	10.1038/s41587-019-0280-2		
+Optimized sgRNA design to maximize activity and minimize off-target effects of CRISPR-Cas9	Nature biotechnology	10.1038/nbt.3437		
+Next Generation Gene Synthesis by targeted retrieval of bead-immobilized, sequence verified DNA clones from a high throughput pyrosequencing device	Nature biotechnology	10.1038/nbt.1710		
+A blue light receptor that mediates RNA binding and translational regulation	Nature chemical biology	10.1038/s41589-019-0346-y		
+Oxidation increases the strength of the methionine-aromatic interaction	Nature chemical biology	10.1038/nchembio.2159		
+Dynamic and scalable DNA-based information storage	Nature Communications	10.1038/s41467-020-16797-2		code
+An evolutionary path to altered cofactor specificity in a metalloenzyme	Nature Communications	10.1038/s41467-020-16478-0		
+Perturbing proteomes at single residue resolution using base editing	Nature Communications	10.1038/s41467-020-15796-7		
+Blackjack mutations improve the on-target activities of increased fidelity variants of SpCas9 with 5′G-extended sgRNAs	Nature Communications	10.1038/s41467-020-15021-5		
+Major antigenic site B of human influenza H3N2 viruses has an evolving local fitness landscape	Nature Communications	10.1038/s41467-020-15102-5		
+The ETFL formulation allows multi-omics integration in thermodynamics-compliant metabolism and expression models	Nature Communications	10.1038/s41467-019-13818-7		
+Prophages and satellite prophages are widespread in Streptococcus and may play a role in pneumococcal pathogenesis	Nature Communications	10.1038/s41467-019-12825-y		
+CUTseq is a versatile method for preparing multiplexed DNA sequencing libraries from low-input samples	Nature Communications	10.1038/s41467-019-12570-2		
+Multi-strategic RNA-seq analysis reveals a high-resolution transcriptional landscape in cotton	Nature Communications	10.1038/s41467-019-12575-x		
+Engineering selective competitors for the discrimination of highly conserved protein-protein interaction modules	Nature Communications	10.1038/s41467-019-12528-4		
+Multiplexed and high-throughput neuronal fluorescence imaging with diffusible probes	Nature Communications	10.1038/s41467-019-12372-6		
+Uncovering the biosynthetic potential of rare metagenomic DNA using co-occurrence network analysis of targeted sequences	Nature Communications	10.1038/s41467-019-11658-z		
+A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism	Nature Communications	10.1038/s41467-019-11581-3		
+Estimating dispensable content in the human interactome	Nature Communications	10.1038/s41467-019-11180-2		
+Association of imputed prostate cancer transcriptome with disease risk reveals novel mechanisms	Nature Communications	10.1038/s41467-019-10808-7		
+Terminator-free template-independent enzymatic DNA synthesis for digital information storage	Nature Communications	10.1038/s41467-019-10258-1		
+Defective homologous recombination DNA repair as therapeutic target in advanced chordoma	Nature Communications	10.1038/s41467-019-09633-9		
+Enhancer hijacking activates oncogenic transcription factor NR4A3 in acinic cell carcinomas of the salivary glands	Nature Communications	10.1038/s41467-018-08069-x		
+CRISPR analysis suggests that small circular single-stranded DNA smacoviruses infect Archaea instead of humans	Nature Communications	10.1038/s41467-018-08167-w		
+Fecal pollution can explain antibiotic resistance gene abundances in anthropogenically impacted environments	Nature Communications	10.1038/s41467-018-07992-3		
+Machine learning applied to enzyme turnover numbers reveals protein structural correlates and improves metabolic models	Nature Communications	10.1038/s41467-018-07652-6		
+Chromatin interactions and expression quantitative trait loci reveal genetic drivers of multimorbidities	Nature Communications	10.1038/s41467-018-07692-y		
+The essential genome of the crenarchaeal model Sulfolobus islandicus	Nature Communications	10.1038/s41467-018-07379-4		
+A chromosome-scale assembly of the sorghum genome using nanopore sequencing and optical mapping	Nature Communications	10.1038/s41467-018-07271-1		
+Evolution of gene knockout strains of E. coli reveal regulatory architectures governed by metabolism	Nature Communications	10.1038/s41467-018-06219-9		
+Dedicated surveillance mechanism controls G-quadruplex forming non-coding RNAs in human mitochondria	Nature Communications	10.1038/s41467-018-05007-9		
+Global profiling of protein–DNA and protein–nucleosome binding affinities using quantitative mass spectrometry	Nature Communications	10.1038/s41467-018-04084-0		
+A complex epistatic network limits the mutational reversibility in the influenza hemagglutinin receptor-binding site	Nature Communications	10.1038/s41467-018-03663-5		
+Assembly of 913 microbial genomes from metagenomic sequencing of the cow rumen	Nature Communications	10.1038/s41467-018-03317-6		
+Clonally diverse CD38+HLA-DR+CD8+ T cells persist during fatal H7N9 disease	Nature Communications	10.1038/s41467-018-03243-7		
+Biochemical mechanisms determine the functional compatibility of heterologous genes	Nature Communications	10.1038/s41467-018-02944-3		
+Incomplete prophage tolerance by type III-A CRISPR-Cas systems reduces the fitness of lysogenic hosts	Nature Communications	10.1038/s41467-017-02557-2		
+RNA degradation by the plant RNA exosome involves both phosphorolytic and hydrolytic activities	Nature Communications	10.1038/s41467-017-02066-2		
+Post-transcriptional gene silencing mediated by microRNAs is controlled by nucleoplasmic Sfpq	Nature Communications	10.1038/s41467-017-01126-x		
+Sox5 regulates beta-cell phenotype and is reduced in type 2 diabetes	Nature Communications	10.1038/ncomms15652		
+BLISS is a versatile and quantitative method for genome-wide profiling of DNA double-strand breaks	Nature Communications	10.1038/ncomms15058		
+Characterization of the interplay between DNA repair and CRISPR/Cas9-induced DNA lesions at an endogenous locus	Nature Communications	10.1038/ncomms13905		
+Rapid construction of a whole-genome transposon insertion collection for Shewanella oneidensis by Knockout Sudoku	Nature Communications	10.1038/ncomms13270		
+Multi-omic data integration enables discovery of hidden biological regularities	Nature Communications	10.1038/ncomms13091		
+A SAM oligomerization domain shapes the genomic binding landscape of the LEAFY transcription factor	Nature Communications	10.1038/ncomms11222		
+Signal transduction in light–oxygen–voltage receptors lacking the adduct-forming cysteine residue	Nature Communications	10.1038/ncomms10079		
+De novo assembly and next-generation sequencing to analyse full-length gene variants from codon-barcoded libraries	Nature Communications	10.1038/ncomms9351		
+Diversification of bacterial genome content through distinct mechanisms over different timescales	Nature Communications	10.1038/ncomms6471		
+Protein interaction network of alternatively spliced isoforms from brain links genetic risk factors for autism	Nature Communications	10.1038/ncomms4650		
+Historical contingency shapes adaptive radiation in Antarctic fishes	Nature ecology & evolution	10.1038/s41559-019-0914-2		
+Inferring whole-genome histories in large population datasets	Nature genetics	10.1038/s41588-019-0483-y		Newick
+Rational targeting of a NuRD subcomplex guided by comprehensive in situ mutagenesis	Nature genetics	10.1038/s41588-019-0453-4		
+Functional classification of long non-coding RNAs by kmer content	Nature genetics	10.1038/s41588-018-0207-8		
+Identification of significantly mutated regions across cancer types highlights a rich landscape of functional molecular alterations	Nature genetics	10.1038/ng.3471		
+A cooperative microRNA-tumor suppressor gene network in acute T-cell lymphoblastic leukemia (T-ALL)	Nature genetics	10.1038/ng.858		
+Quantifying spatiotemporal variability and noise in absolute microbiota abundances using replicate sampling	Nature methods	10.1038/s41592-019-0467-y		pairwise2
+Unified rational protein engineering with sequence-based deep representation learning	Nature methods	10.1038/s41592-019-0598-1		
+SABER enables amplified and multiplexed imaging of RNA and DNA in cells and tissues	Nature methods	10.1038/s41592-019-0404-0		
+Detecting overlapping protein complexes in protein-protein interaction networks	Nature methods	10.1038/nmeth.1938		
+High Resolution Mapping of Protein Sequence–Function Relationships	Nature methods	10.1038/nmeth.1492		
+A metabolic pathway for catabolizing levulinic acid in bacteria	Nature microbiology	10.1038/s41564-017-0028-z		BLAST
+Bacteriophage evolution differs by host, lifestyle and genome	Nature microbiology	10.1038/nmicrobiol.2017.112		
+Using BEAN-counter to quantify genetic interactions from multiplexed barcode sequencing experiments	Nature protocols	10.1038/s41596-018-0099-1		
+PhIP-Seq Characterization of Serum Antibodies Using Oligonucleotide Encoded Peptidomes	Nature protocols	10.1038/s41596-018-0025-6		
+Genome-scale CRISPR-Cas9 Knockout and Transcriptional Activation Screening	Nature protocols	10.1038/nprot.2017.016		
+Detecting ultralow-frequency mutations by Duplex Sequencing	Nature protocols	10.1038/nprot.2014.170		
+Small-molecule ligand docking into comparative models with Rosetta	Nature protocols	10.1038/nprot.2013.074		
+Identification of Exo1-Msh2-interaction motifs in DNA mismatch repair and new Msh2-binding partners	Nature structural & molecular biology	10.1038/s41594-018-0092-y		
+A Genome-Wide Map of AAV-Mediated Human Gene Targeting	Nature structural & molecular biology	10.1038/nsmb.2895		
+An alternative mode of microRNA target recognition	Nature structural & molecular biology	10.1038/nsmb.2230		
