@@ -1,0 +1,508 @@
+LOCUS       NM_001256560            1324 bp    mRNA    linear   PRI 12-SEP-2021
+DEFINITION  Homo sapiens deoxyribonuclease 1 like 3 (DNASE1L3), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001256560
+VERSION     NM_001256560.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1324)
+  AUTHORS   Han DSC and Lo YMD.
+  TITLE     The Nexus of cfDNA and Nuclease Biology
+  JOURNAL   Trends Genet 37 (8), 758-770 (2021)
+   PUBMED   34006390
+  REMARK    GeneRIF: The Nexus of cfDNA and Nuclease Biology.
+            Review article
+REFERENCE   2  (bases 1 to 1324)
+  AUTHORS   Chen QY, Li L and Suo DQ.
+  TITLE     DNase1L3 suppresses hepatocellular carcinoma growth via inhibiting
+            complement autocrine effect
+  JOURNAL   Neoplasma 68 (4), 683-691 (2021)
+   PUBMED   33618518
+  REMARK    GeneRIF: DNase1L3 suppresses hepatocellular carcinoma growth via
+            inhibiting complement autocrine effect.
+REFERENCE   3  (bases 1 to 1324)
+  AUTHORS   Liu J, Yi J, Zhang Z, Cao D, Li L and Yao Y.
+  TITLE     Deoxyribonuclease 1-like 3 may be a potential prognostic biomarker
+            associated with immune infiltration in colon cancer
+  JOURNAL   Aging (Albany NY) 13 (12), 16513-16526 (2021)
+   PUBMED   34157681
+  REMARK    GeneRIF: Deoxyribonuclease 1-like 3 may be a potential prognostic
+            biomarker associated with immune infiltration in colon cancer.
+REFERENCE   4  (bases 1 to 1324)
+  AUTHORS   Guo D, Ma D, Liu P, Lan J, Liu Z and Liu Q.
+  TITLE     DNASE1L3 arrests tumor angiogenesis by impairing the
+            senescence-associated secretory phenotype in response to stress
+  JOURNAL   Aging (Albany NY) 13 (7), 9874-9899 (2021)
+   PUBMED   33744849
+  REMARK    GeneRIF: DNASE1L3 arrests tumor angiogenesis by impairing the
+            senescence-associated secretory phenotype in response to stress.
+REFERENCE   5  (bases 1 to 1324)
+  AUTHORS   Al-Mayouf SM, Sunker A, Abdwani R, Abrawi SA, Almurshedi F,
+            Alhashmi N, Al Sonbul A, Sewairi W, Qari A, Abdallah E, Al-Owain M,
+            Al Motywee S, Al-Rayes H, Hashem M, Khalak H, Al-Jebali L and
+            Alkuraya FS.
+  TITLE     Loss-of-function variant in DNASE1L3 causes a familial form of
+            systemic lupus erythematosus
+  JOURNAL   Nat Genet 43 (12), 1186-1188 (2011)
+   PUBMED   22019780
+  REMARK    GeneRIF: We identified a rare autosomal recessive form of systemic
+            lupus erythematosus, in which autozygome analysis revealed a null
+            mutation in the DNASE1L3 gene
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1324)
+  AUTHORS   Wilber A, Lu M and Schneider MC.
+  TITLE     Deoxyribonuclease I-like III is an inducible macrophage barrier to
+            liposomal transfection
+  JOURNAL   Mol Ther 6 (1), 35-42 (2002)
+   PUBMED   12095301
+REFERENCE   7  (bases 1 to 1324)
+  AUTHORS   Shiokawa D and Tanuma S.
+  TITLE     Characterization of human DNase I family endonucleases and
+            activation of DNase gamma during apoptosis
+  JOURNAL   Biochemistry 40 (1), 143-152 (2001)
+   PUBMED   11141064
+REFERENCE   8  (bases 1 to 1324)
+  AUTHORS   Baron WF, Pan CQ, Spencer SA, Ryan AM, Lazarus RA and Baker KP.
+  TITLE     Cloning and characterization of an actin-resistant DNase I-like
+            endonuclease secreted by macrophages
+  JOURNAL   Gene 215 (2), 291-301 (1998)
+   PUBMED   9714828
+REFERENCE   9  (bases 1 to 1324)
+  AUTHORS   Rodriguez AM, Rodin D, Nomura H, Morton CC, Weremowicz S and
+            Schneider MC.
+  TITLE     Identification, localization, and expression of two novel human
+            genes similar to deoxyribonuclease I
+  JOURNAL   Genomics 42 (3), 507-513 (1997)
+   PUBMED   9205125
+REFERENCE   10 (bases 1 to 1324)
+  AUTHORS   Zeng Z, Parmelee D, Hyaw H, Coleman TA, Su K, Zhang J, Gentz R,
+            Ruben S, Rosen C and Li Y.
+  TITLE     Cloning and characterization of a novel human DNase
+  JOURNAL   Biochem Biophys Res Commun 231 (2), 499-504 (1997)
+   PUBMED   9070308
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BI521582.1, AK301263.1,
+            DB164811.1, AI660448.1 and AC137936.3.
+            On Aug 13, 2020 this sequence version replaced NM_001256560.1.
+            
+            Summary: This gene encodes a member of the deoxyribonuclease I
+            family. The encoded protein hydrolyzes DNA, is not inhibited by
+            actin, and mediates the breakdown of DNA during apoptosis.
+            Mutations in this gene are a cause of systemic lupus
+            erythematosus-16. Alternatively spliced transcript variants
+            encoding multiple isoforms have been observed for this gene.
+            [provided by RefSeq, Feb 2012].
+            
+            Transcript Variant: This variant (2) lacks an exon in the 5' coding
+            region, but maintains the reading frame, compared to variant 1. The
+            encoded isoform (2) is shorter than isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK301263.1, SRR5189664.12660.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-3                 BI521582.1         241-243
+            4-430               AK301263.1         1-427
+            431-953             DB164811.1         49-571
+            954-955             AI660448.1         1-2                 c
+            956-1324            AC137936.3         138231-138599       c
+FEATURES             Location/Qualifiers
+     source          1..1324
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p14.3"
+     gene            1..1324
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="deoxyribonuclease 1 like 3"
+                     /db_xref="GeneID:1776"
+                     /db_xref="HGNC:HGNC:2959"
+                     /db_xref="MIM:602244"
+     exon            1..207
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    46..48
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="upstream in-frame stop codon"
+     CDS             67..894
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /EC_number="3.1.21.-"
+                     /note="isoform 2 precursor is encoded by transcript
+                     variant 2; DNase gamma; deoxyribonuclease gamma; DNase I
+                     homolog protein 2; Liver and spleen DNase; LS-DNase;
+                     deoxyribonuclease I-like III; DNase I-like 3; DNase I
+                     homolog protein DHP2; deoxyribonuclease I-like 3"
+                     /codon_start=1
+                     /product="deoxyribonuclease gamma isoform 2 precursor"
+                     /protein_id="NP_001243489.1"
+                     /db_xref="CCDS:CCDS58836.1"
+                     /db_xref="GeneID:1776"
+                     /db_xref="HGNC:HGNC:2959"
+                     /db_xref="MIM:602244"
+                     /translation="MSRELAPLLLLLLSIHSALAMRICSFNVRSFGESKQEDKNAMDV
+                     IVKVIKRCDIILVMEIKDSNNRICPILMEKLNREKLVSVKRSYHYHDYQDGDADVFSR
+                     EPFVVWFQSPHTAVKDFVIIPLHTTPETSVKEIDELVEVYTDVKHRWKAENFIFMGDF
+                     NAGCSYVPKKAWKNIRLRTDPRFVWLIGDQEDTTVKKSTNCAYDRIVLRGQEIVSSVV
+                     PKSNSVFDFQKAYKLTEEEALDVSDHFPVEFKLQSSRAFTNSKKSVTLRKKTKSKRS"
+     sig_peptide     67..126
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     127..891
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /product="deoxyribonuclease gamma isoform 2"
+     exon            208..296
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            297..409
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            410..522
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            523..680
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            681..777
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            778..1324
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      934..939
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="hexamer: AATAAA"
+     polyA_site      953
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="major polyA site"
+     regulatory      979..984
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="hexamer: AACAAG"
+     polyA_site      980
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+     polyA_site      1003
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+ORIGIN      
+        1 gccagaatcc agcactccaa gcactgctgt cttctcacag agtcttgaag ccagagcagc
+       61 gccaggatgt cacgggagct ggccccactg ctgcttctcc tcctctccat ccacagcgcc
+      121 ctggccatga ggatctgctc cttcaacgtc aggtcctttg gggaaagcaa gcaggaagac
+      181 aagaatgcca tggatgtcat tgtgaaggtc atcaaacgct gtgacatcat actcgtgatg
+      241 gaaatcaagg acagcaacaa caggatctgc cccatactga tggagaagct gaacagggaa
+      301 aagctggtgt ctgtgaagag gagttatcac taccatgact atcaggatgg agacgcagat
+      361 gtgttttcca gggagccctt tgtggtctgg ttccaatctc cccacactgc tgtcaaagac
+      421 ttcgtgatta tccccctgca caccacccca gagacatccg ttaaggagat cgatgagttg
+      481 gttgaggtct acacggacgt gaaacaccgc tggaaggcgg agaatttcat tttcatgggt
+      541 gacttcaatg ccggctgcag ctacgtcccc aagaaggcct ggaagaacat ccgcttgagg
+      601 actgacccca ggtttgtttg gctgatcggg gaccaagagg acaccacggt gaagaagagc
+      661 accaactgtg catatgacag gattgtgctt agaggacaag aaatcgtcag ttctgttgtt
+      721 cccaagtcaa acagtgtttt tgacttccag aaagcttaca agctgactga agaggaggcc
+      781 ctggatgtca gcgaccactt tccagttgaa tttaaactac agtcttcaag ggccttcacc
+      841 aacagcaaaa aatctgtcac tctaaggaag aaaacaaaga gcaaacgctc ctagacccaa
+      901 gggtctcatc ttattaacca tttcttgcct ctaaataaaa tgtctctaac agatatgaac
+      961 tgctccctgt acttaggaaa caagagtgat ccaactgctt tcattttttg acctgaattt
+     1021 attctgactt gagccaaatt ggaaggagaa tcttttgtat ctctcttggt ctcatacctc
+     1081 ccctgaattg tctaaaaggg aaccaggggc atttgtagac caaaatgatg atcttcatgc
+     1141 cctgagccag agccccatcc actgtcactg gccctgctca accctgtcat gcgagaggct
+     1201 gcagggggag gaagagcgtc agctttcagt cctcatgagg ggtcctgttc cacacgcaat
+     1261 gaccagaaac accaaggccc cagctgcccc tgtgatttgg gcaattaact gttttaagag
+     1321 tctg
+//
+
+LOCUS       NM_004944               1414 bp    mRNA    linear   PRI 12-SEP-2021
+DEFINITION  Homo sapiens deoxyribonuclease 1 like 3 (DNASE1L3), transcript
+            variant 1, mRNA.
+ACCESSION   NM_004944
+VERSION     NM_004944.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1414)
+  AUTHORS   Han DSC and Lo YMD.
+  TITLE     The Nexus of cfDNA and Nuclease Biology
+  JOURNAL   Trends Genet 37 (8), 758-770 (2021)
+   PUBMED   34006390
+  REMARK    GeneRIF: The Nexus of cfDNA and Nuclease Biology.
+            Review article
+REFERENCE   2  (bases 1 to 1414)
+  AUTHORS   Chen QY, Li L and Suo DQ.
+  TITLE     DNase1L3 suppresses hepatocellular carcinoma growth via inhibiting
+            complement autocrine effect
+  JOURNAL   Neoplasma 68 (4), 683-691 (2021)
+   PUBMED   33618518
+  REMARK    GeneRIF: DNase1L3 suppresses hepatocellular carcinoma growth via
+            inhibiting complement autocrine effect.
+REFERENCE   3  (bases 1 to 1414)
+  AUTHORS   Liu J, Yi J, Zhang Z, Cao D, Li L and Yao Y.
+  TITLE     Deoxyribonuclease 1-like 3 may be a potential prognostic biomarker
+            associated with immune infiltration in colon cancer
+  JOURNAL   Aging (Albany NY) 13 (12), 16513-16526 (2021)
+   PUBMED   34157681
+  REMARK    GeneRIF: Deoxyribonuclease 1-like 3 may be a potential prognostic
+            biomarker associated with immune infiltration in colon cancer.
+REFERENCE   4  (bases 1 to 1414)
+  AUTHORS   Guo D, Ma D, Liu P, Lan J, Liu Z and Liu Q.
+  TITLE     DNASE1L3 arrests tumor angiogenesis by impairing the
+            senescence-associated secretory phenotype in response to stress
+  JOURNAL   Aging (Albany NY) 13 (7), 9874-9899 (2021)
+   PUBMED   33744849
+  REMARK    GeneRIF: DNASE1L3 arrests tumor angiogenesis by impairing the
+            senescence-associated secretory phenotype in response to stress.
+REFERENCE   5  (bases 1 to 1414)
+  AUTHORS   Al-Mayouf SM, Sunker A, Abdwani R, Abrawi SA, Almurshedi F,
+            Alhashmi N, Al Sonbul A, Sewairi W, Qari A, Abdallah E, Al-Owain M,
+            Al Motywee S, Al-Rayes H, Hashem M, Khalak H, Al-Jebali L and
+            Alkuraya FS.
+  TITLE     Loss-of-function variant in DNASE1L3 causes a familial form of
+            systemic lupus erythematosus
+  JOURNAL   Nat Genet 43 (12), 1186-1188 (2011)
+   PUBMED   22019780
+  REMARK    GeneRIF: We identified a rare autosomal recessive form of systemic
+            lupus erythematosus, in which autozygome analysis revealed a null
+            mutation in the DNASE1L3 gene
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1414)
+  AUTHORS   Wilber A, Lu M and Schneider MC.
+  TITLE     Deoxyribonuclease I-like III is an inducible macrophage barrier to
+            liposomal transfection
+  JOURNAL   Mol Ther 6 (1), 35-42 (2002)
+   PUBMED   12095301
+REFERENCE   7  (bases 1 to 1414)
+  AUTHORS   Shiokawa D and Tanuma S.
+  TITLE     Characterization of human DNase I family endonucleases and
+            activation of DNase gamma during apoptosis
+  JOURNAL   Biochemistry 40 (1), 143-152 (2001)
+   PUBMED   11141064
+REFERENCE   8  (bases 1 to 1414)
+  AUTHORS   Baron WF, Pan CQ, Spencer SA, Ryan AM, Lazarus RA and Baker KP.
+  TITLE     Cloning and characterization of an actin-resistant DNase I-like
+            endonuclease secreted by macrophages
+  JOURNAL   Gene 215 (2), 291-301 (1998)
+   PUBMED   9714828
+REFERENCE   9  (bases 1 to 1414)
+  AUTHORS   Rodriguez AM, Rodin D, Nomura H, Morton CC, Weremowicz S and
+            Schneider MC.
+  TITLE     Identification, localization, and expression of two novel human
+            genes similar to deoxyribonuclease I
+  JOURNAL   Genomics 42 (3), 507-513 (1997)
+   PUBMED   9205125
+REFERENCE   10 (bases 1 to 1414)
+  AUTHORS   Zeng Z, Parmelee D, Hyaw H, Coleman TA, Su K, Zhang J, Gentz R,
+            Ruben S, Rosen C and Li Y.
+  TITLE     Cloning and characterization of a novel human DNase
+  JOURNAL   Biochem Biophys Res Commun 231 (2), 499-504 (1997)
+   PUBMED   9070308
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BI521582.1, BC015831.1,
+            AI660448.1 and AC137936.3.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 17, 2019 this sequence version replaced NM_004944.3.
+            
+            Summary: This gene encodes a member of the deoxyribonuclease I
+            family. The encoded protein hydrolyzes DNA, is not inhibited by
+            actin, and mediates the breakdown of DNA during apoptosis.
+            Mutations in this gene are a cause of systemic lupus
+            erythematosus-16. Alternatively spliced transcript variants
+            encoding multiple isoforms have been observed for this gene.
+            [provided by RefSeq, Feb 2012].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF047354.1, U56814.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000394549.7/ ENSP00000378053.2
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-61                BI521582.1         241-301
+            62-1039             BC015831.1         63-1040
+            1040-1045           AI660448.1         1-6                 c
+            1046-1414           AC137936.3         138231-138599       c
+FEATURES             Location/Qualifiers
+     source          1..1414
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p14.3"
+     gene            1..1414
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="deoxyribonuclease 1 like 3"
+                     /db_xref="GeneID:1776"
+                     /db_xref="HGNC:HGNC:2959"
+                     /db_xref="MIM:602244"
+     exon            1..207
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    46..48
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="upstream in-frame stop codon"
+     CDS             67..984
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /EC_number="3.1.21.-"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; DNase gamma; deoxyribonuclease gamma; DNase I
+                     homolog protein 2; Liver and spleen DNase; LS-DNase;
+                     deoxyribonuclease I-like III; DNase I-like 3; DNase I
+                     homolog protein DHP2; deoxyribonuclease I-like 3"
+                     /codon_start=1
+                     /product="deoxyribonuclease gamma isoform 1 precursor"
+                     /protein_id="NP_004935.1"
+                     /db_xref="CCDS:CCDS2886.1"
+                     /db_xref="GeneID:1776"
+                     /db_xref="HGNC:HGNC:2959"
+                     /db_xref="MIM:602244"
+                     /translation="MSRELAPLLLLLLSIHSALAMRICSFNVRSFGESKQEDKNAMDV
+                     IVKVIKRCDIILVMEIKDSNNRICPILMEKLNRNSRRGITYNYVISSRLGRNTYKEQY
+                     AFLYKEKLVSVKRSYHYHDYQDGDADVFSREPFVVWFQSPHTAVKDFVIIPLHTTPET
+                     SVKEIDELVEVYTDVKHRWKAENFIFMGDFNAGCSYVPKKAWKNIRLRTDPRFVWLIG
+                     DQEDTTVKKSTNCAYDRIVLRGQEIVSSVVPKSNSVFDFQKAYKLTEEEALDVSDHFP
+                     VEFKLQSSRAFTNSKKSVTLRKKTKSKRS"
+     sig_peptide     67..126
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     127..981
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /product="Deoxyribonuclease gamma. /id=PRO_0000007288"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13609.1)"
+     misc_feature    169..219
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13609.1);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000255"
+     misc_feature    916..981
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13609.1);
+                     Region: Not required for free DNA-nuclease activity but
+                     required for activity towards liposome-coated DNA.
+                     /evidence=ECO:0000250|UniProtKB:O55070"
+     misc_feature    952..978
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q13609.1);
+                     Region: Nuclear localization signal.
+                     /evidence=ECO:0000255"
+     exon            208..296
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            297..386
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            387..499
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            500..612
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            613..770
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            771..867
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     exon            868..1414
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1024..1029
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="hexamer: AATAAA"
+     polyA_site      1043
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="major polyA site"
+     regulatory      1069..1074
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+                     /note="hexamer: AACAAG"
+     polyA_site      1070
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+     polyA_site      1093
+                     /gene="DNASE1L3"
+                     /gene_synonym="DHP2; DNAS1L3; LSD; SLEB16"
+ORIGIN      
+        1 gccagaatcc agcactccaa gcactgctgt cttctcacag agtcttgaag ccagagcagc
+       61 gccaggatgt cacgggagct ggccccactg ctgcttctcc tcctctccat ccacagcgcc
+      121 ctggccatga ggatctgctc cttcaacgtc aggtcctttg gggaaagcaa gcaggaagac
+      181 aagaatgcca tggatgtcat tgtgaaggtc atcaaacgct gtgacatcat actcgtgatg
+      241 gaaatcaagg acagcaacaa caggatctgc cccatactga tggagaagct gaacagaaat
+      301 tcaaggagag gcataacgta caactatgtg attagctctc ggcttggaag aaacacatat
+      361 aaagaacaat atgcctttct ctacaaggaa aagctggtgt ctgtgaagag gagttatcac
+      421 taccatgact atcaggatgg agacgcagat gtgttttcca gggagccctt tgtggtctgg
+      481 ttccaatctc cccacactgc tgtcaaagac ttcgtgatta tccccctgca caccacccca
+      541 gagacatccg ttaaggagat cgatgagttg gttgaggtct acacggacgt gaaacaccgc
+      601 tggaaggcgg agaatttcat tttcatgggt gacttcaatg ccggctgcag ctacgtcccc
+      661 aagaaggcct ggaagaacat ccgcttgagg actgacccca ggtttgtttg gctgatcggg
+      721 gaccaagagg acaccacggt gaagaagagc accaactgtg catatgacag gattgtgctt
+      781 agaggacaag aaatcgtcag ttctgttgtt cccaagtcaa acagtgtttt tgacttccag
+      841 aaagcttaca agctgactga agaggaggcc ctggatgtca gcgaccactt tccagttgaa
+      901 tttaaactac agtcttcaag ggccttcacc aacagcaaaa aatctgtcac tctaaggaag
+      961 aaaacaaaga gcaaacgctc ctagacccaa gggtctcatc ttattaacca tttcttgcct
+     1021 ctaaataaaa tgtctctaac agatatgaac tgctccctgt acttaggaaa caagagtgat
+     1081 ccaactgctt tcattttttg acctgaattt attctgactt gagccaaatt ggaaggagaa
+     1141 tcttttgtat ctctcttggt ctcatacctc ccctgaattg tctaaaaggg aaccaggggc
+     1201 atttgtagac caaaatgatg atcttcatgc cctgagccag agccccatcc actgtcactg
+     1261 gccctgctca accctgtcat gcgagaggct gcagggggag gaagagcgtc agctttcagt
+     1321 cctcatgagg ggtcctgttc cacacgcaat gaccagaaac accaaggccc cagctgcccc
+     1381 tgtgatttgg gcaattaact gttttaagag tctg
+//
+
