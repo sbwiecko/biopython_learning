@@ -1,0 +1,32 @@
+LOCUS       NM_000518.5              628 bp    mRNA             UNK 01-JAN-1980
+DEFINITION  NM_000518.5 Homo sapiens hemoglobin subunit beta (HBB), mRNA.
+ACCESSION   NM_000518
+VERSION     NM_000518.5
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            .
+REFERENCE   1
+  AUTHORS   Sebastien WIECKOWSKI
+  JOURNAL   Nature
+FEATURES             Location/Qualifiers
+     gene            1..628
+     CDS             51..494
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFES
+                     FGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENF
+                     RLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH*"
+ORIGIN
+        1 acatttgctt ctgacacaac tgtgttcact agcaacctca aacagacacc atggtgcatc
+       61 tgactcctga ggagaagtct gccgttactg ccctgtgggg caaggtgaac gtggatgaag
+      121 ttggtggtga ggccctgggc aggctgctgg tggtctaccc ttggacccag aggttctttg
+      181 agtcctttgg ggatctgtcc actcctgatg ctgttatggg caaccctaag gtgaaggctc
+      241 atggcaagaa agtgctcggt gcctttagtg atggcctggc tcacctggac aacctcaagg
+      301 gcacctttgc cacactgagt gagctgcact gtgacaagct gcacgtggat cctgagaact
+      361 tcaggctcct gggcaacgtg ctggtctgtg tgctggccca tcactttggc aaagaattca
+      421 ccccaccagt gcaggctgcc tatcagaaag tggtggctgg tgtggctaat gccctggccc
+      481 acaagtatca ctaagctcgc tttcttgctg tccaatttct attaaaggtt cctttgttcc
+      541 ctaagtccaa ctactaaact gggggatatt atgaagggcc ttgagcatct ggattctgcc
+      601 taataaaaaa catttatttt cattgcaa
+//
