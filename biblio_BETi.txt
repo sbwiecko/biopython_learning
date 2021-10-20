@@ -1,0 +1,70 @@
+34633088	Dual-target inhibitors of bromodomain and extra-terminal proteins in cancer: A review from medicinal chemistry perspectives.	2021 Oct 11	Medicinal research reviews
+34548613	Bromodomain proteins: protectors against endogenous DNA damage and facilitators of genome integrity.	2021 Sep	Experimental & molecular medicine
+34540687	Anticancer Effects of I-BET151, an Inhibitor of Bromodomain and Extra-Terminal Domain Proteins.	2021	Frontiers in oncology
+34520583	Emerging roles of bromodomain protein 4 in regulation of stem cell identity.	2021 Sep 14	Stem cells (Dayton, Ohio)
+34438075	Dual-target inhibitors of bromodomain-containing protein 4 (BRD4) in cancer therapy: Current situation and future directions.	2021 Aug 23	Drug discovery today
+34386523	Multiple Roles of Brd4 in the Infectious Cycle of Human Papillomaviruses.	2021	Frontiers in molecular biosciences
+34362532	[Research Advances in the Mechanisms of BRD4 and Its Inhibitors in Hematologic Malignancies--Review].	2021 Aug	Zhongguo shi yan xue ye xue za zhi
+34336926	Regulation of Carbohydrate-Responsive Metabolic Genes by Histone Acetylation and the Acetylated Histone Reader BRD4 in the Gene Body Region.	2021	Frontiers in molecular biosciences
+34298819	Functional Roles of Bromodomain Proteins in Cancer.	2021 Jul 19	Cancers
+33851008	BRD4: An emerging prospective therapeutic target in glioma.	2021 Jun 25	Molecular therapy oncolytics
+33706239	Opportunity knocks for uncovering the new function of an understudied nucleosome remodeling complex member, the bromodomain PHD finger transcription factor, BPTF.	2021 Aug	Current opinion in chemical biology
+33616410	Targeting Bromodomain and Extraterminal Proteins for Drug Discovery: From Current Progress to Technological Development.	2021 Mar 11	Journal of medicinal chemistry
+33601323	Bromodomain and extra-terminal inhibitors-A consensus prioritisation after the Paediatric Strategy Forum for medicinal product development of epigenetic modifiers in children-ACCELERATE.	2021 Mar	European journal of cancer (Oxford, England : 1990)
+33574760	Safety and Efficacy of Bromodomain and Extra-Terminal Inhibitors for the Treatment of Hematological Malignancies and Solid Tumors: A Systematic Study of Clinical Trials.	2020	Frontiers in pharmacology
+33452461	Supercharging BRD4 with NUT in carcinoma.	2021 Feb	Oncogene
+33413475	Modulation of BRD4 in HIV epigenetic regulation: implications for finding an HIV cure.	2021 Jan 7	Retrovirology
+33345363	Bromodomain-containing protein 4 and its role in cardiovascular diseases.	2021 Jul	Journal of cellular physiology
+32926459	Inhibitors of bromodomain and extra-terminal proteins for treating multiple human diseases.	2021 Jan	Medicinal research reviews
+32893690	Proteolysis-targeting chimeras mediate the degradation of bromodomain and extra-terminal domain proteins.	2020 Sep	Future medicinal chemistry
+32714883	Bromodomain Inhibitors as Therapeutics for Herpesvirus-Related Disease: All BETs Are Off?	2020	Frontiers in cellular and infection microbiology
+32693114	Targeting BET bromodomain proteins in cancer: The example of lymphomas.	2020 Nov	Pharmacology & therapeutics
+32520674	Dual-target Inhibitors Based on BRD4: Novel Therapeutic Approaches for Cancer.	2021	Current medicinal chemistry
+32502863	Novel strategies targeting bromodomain-containing protein 4 (BRD4) for cancer drug discovery.	2020 Aug 15	European journal of medicinal chemistry
+32409773	The therapeutic potential of BRD4 in cardiovascular disease.	2020 Oct	Hypertension research : official journal of the Japanese Society of Hypertension
+32331282	RSV Reprograms the CDK9•BRD4 Chromatin Remodeling Complex to Couple Innate Inflammation to Airway Remodeling.	2020 Apr 22	Viruses
+32191554	Bromodomain AAA+ ATPases get into shape.	2020 Dec	Nucleus (Austin, Tex.)
+31931101	Make your best BET: The emerging role of BET inhibitor treatment in malignant tumors.	2020 Apr	Pharmacology & therapeutics
+31870185	Developments in drug design strategies for bromodomain protein inhibitors to target <i>Plasmodium falciparum</i> parasites.	2020 Apr	Expert opinion on drug discovery
+31815566	A patent review of BRD4 inhibitors (2013-2019).	2020 Jan	Expert opinion on therapeutic patents
+31780938	Bromodomain and Extraterminal Proteins as Novel Epigenetic Targets for Renal Diseases.	2019	Frontiers in pharmacology
+31733396	Validation of the epigenetic reader bromodomain-containing protein 4 (BRD4) as a therapeutic target for treatment of airway remodeling.	2020 Jan	Drug discovery today
+31726225	Emerging tools to investigate bromodomain functions.	2020 Dec 1	Methods (San Diego, Calif.)
+31582847	Bromodomain biology and drug discovery.	2019 Oct	Nature structural & molecular biology
+31582844	Targeting non-bromodomain chromatin readers.	2019 Oct	Nature structural & molecular biology
+31581671	Pharmacological Targeting of BET Bromodomain Proteins in Acute Myeloid Leukemia and Malignant Lymphomas: From Molecular Characterization to Clinical Applications.	2019 Oct 2	Cancers
+31364510	Recent Advances in the Development of CBP/p300 Bromodomain Inhibitors.	2020	Current medicinal chemistry
+31215391	Bromodomain-Containing Protein 4: A Druggable Target.	2019	Current drug targets
+31200858	Small-molecule PROTAC degraders of the Bromodomain and Extra Terminal (BET) proteins - A review.	2019 Apr	Drug discovery today. Technologies
+31116107	Bromodomain and Extra-Terminal domain inhibitors for lymphoid malignancies.	2019 Jul	Current opinion in hematology
+30906568	Bromodomain and extra-terminal motif inhibitors: a review of preclinical and clinical advances in cancer therapy.	2019 Mar	Future science OA
+30832981	Emerging roles of and therapeutic strategies targeting BRD4 in cancer.	2019 Mar	Cellular immunology
+30693439	How Might Bromodomain and Extra-Terminal (BET) Inhibitors Operate in Cardiovascular Disease?	2019 Apr	American journal of cardiovascular drugs : drugs, devices, and other interventions
+30633431	Chemical Epigenetics: The Impact of Chemical and Chemical Biology Techniques on Bromodomain Target Validation.	2019 Dec 9	Angewandte Chemie (International ed. in English)
+30624862	Advancements in the Development of non-BET Bromodomain Chemical Probes.	2019 Feb 19	ChemMedChem
+30564450	Bromodomain protein inhibition: a novel therapeutic strategy in rheumatic diseases.	2018	RMD open
+30542529	Targeting Brd4 for cancer therapy: inhibitors and degraders.	2018 Nov 1	MedChemComm
+30466442	BRD4 and Cancer: going beyond transcriptional regulation.	2018 Nov 22	Molecular cancer
+30414936	From bench to bedside, via desktop. Recent advances in the application of cutting-edge in silico tools in the research of drugs targeting bromodomain modules.	2019 Jan	Biochemical pharmacology
+30289209	Bromodomain Drug Discovery - the Past, the Present, and the Future.	2018 Dec	Chemical record (New York, N.Y.)
+30230450	[P-TEFb and Brd4: actors of the transcription pause release as therapeutical targets].	2018 Aug-Sep	Medecine sciences : M/S
+30067623	Bromodomain inhibitors: what does the future hold?	2018 Jul	Clinical advances in hematology & oncology : H&O
+29620420	Research progress of selective small molecule bromodomain-containing protein 9 inhibitors.	2018 Apr 1	Future medicinal chemistry
+29415456	BET Family Protein BRD4: An Emerging Actor in NFκB Signaling in Inflammation and Cancer.	2018 Feb 6	Biomedicines
+29233295	Novel approaches to targeting BRD4.	2017 Jun	Drug discovery today. Technologies
+29154989	Targeting bromodomain and extraterminal proteins in breast cancer.	2018 Mar	Pharmacological research
+28943305	Targeting the cancer epigenome: synergistic therapy with bromodomain inhibitors.	2018 Jan	Drug discovery today
+28847823	Bromodomain proteins: repairing DNA damage within chromatin.	2017 Oct 5	Philosophical transactions of the Royal Society of London. Series B, Biological sciences
+28721198	BRD4 inhibition for the treatment of pathological organ fibrosis.	2017	F1000Research
+28714212	Fragment-Based Drug Discovery in the Bromodomain and Extra-Terminal Domain Family.	2017 Aug	Archiv der Pharmazie
+28695816	Research Advances in the Role of Bromodomain-containing Protein 4 in Epithelial-mesenchymal Transition in Asthma.	2017 Jun 20	Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae
+28624514	Bromodomain-containing proteins in prostate cancer.	2018 Feb 15	Molecular and cellular endocrinology
+28580303	The Role of Bromodomain Testis-Specific Factor, BRDT, in Cancer: A Biomarker and A Possible Therapeutic Target.	2017 Spring	Cell journal
+28569271	Heart failure: BRD4 inhibition slows HF progression.	2017 Jul	Nature reviews. Cardiology
+28541716	Investigational BET bromodomain protein inhibitors in early stage clinical trials for acute myelogenous leukemia (AML).	2017 Jul	Expert opinion on investigational drugs
+28500727	Biological function and histone recognition of family IV bromodomain-containing proteins.	2018 Mar	Journal of cellular physiology
+28213432	Targeting Cancer Cells with BET Bromodomain Inhibitors.	2017 Jul 5	Cold Spring Harbor perspectives in medicine
+28195723	Drug Discovery Targeting Bromodomain-Containing Protein 4.	2017 Jun 8	Journal of medicinal chemistry
+28174254	The Essential Transcriptional Function of BRD4 in Acute Myeloid Leukemia.	2016	Cold Spring Harbor symposia on quantitative biology
+28062533	BET Bromodomain Proteins as Cancer Therapeutic Targets.	2016	Cold Spring Harbor symposia on quantitative biology
+28053347	Functions of bromodomain-containing proteins and their roles in homeostasis and cancer.	2017 Apr	Nature reviews. Molecular cell biology
